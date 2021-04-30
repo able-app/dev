@@ -1,0 +1,26 @@
+{
+  "assets": {
+      "icon": {
+          "line": {
+            "headphone"  :  { "value"  :  "assets/icons/line/15-video-meeting/headphone.svg" },
+            "video-camera"  :  { "value"  :  "assets/icons/line/15-video-meeting/video-camera.svg" },
+            "video-meeting-circle"  :  { "value"  :  "assets/icons/line/15-video-meeting/video-meeting-circle.svg" },
+            "video-meeting-computer"  :  { "value"  :  "assets/icons/line/15-video-meeting/video-meeting-computer.svg" },
+            "video-meeting-group"  :  { "value"  :  "assets/icons/line/15-video-meeting/video-meeting-group.svg" },
+            "video-meeting-laptop"  :  { "value"  :  "assets/icons/line/15-video-meeting/video-meeting-laptop.svg" },
+            "video-meeting-phone"  :  { "value"  :  "assets/icons/line/15-video-meeting/video-meeting-phone.svg" },
+            "video-meeting-square"  :  { "value"  :  "assets/icons/line/15-video-meeting/video-meeting-square.svg" }
+          },
+          "filled": {
+            "headphone"  :  { "value"  :  "assets/icons/filled/15-video-meeting/headphone.svg" },
+            "video-camera"  :  { "value"  :  "assets/icons/filled/15-video-meeting/video-camera.svg" },
+            "video-meeting-circle"  :  { "value"  :  "assets/icons/filled/15-video-meeting/video-meeting-circle.svg" },
+            "video-meeting-computer"  :  { "value"  :  "assets/icons/filled/15-video-meeting/video-meeting-computer.svg" },
+            "video-meeting-group"  :  { "value"  :  "assets/icons/filled/15-video-meeting/video-meeting-group.svg" },
+            "video-meeting-laptop"  :  { "value"  :  "assets/icons/filled/15-video-meeting/video-meeting-laptop.svg" },
+            "video-meeting-phone"  :  { "value"  :  "assets/icons/filled/15-video-meeting/video-meeting-phone.svg" },
+            "video-meeting-square"  :  { "value"  :  "assets/icons/filled/15-video-meeting/video-meeting-square.svg" }
+          }
+      }
+   }
+}

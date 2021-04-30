@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="24px"
+	 height="24px" viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve">
+<g id="Outline_Icons">
+	<g>
+		
+			<circle fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="5" cy="21.5" r="2"/>
+		
+			<circle fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="19" cy="21.5" r="2"/>
+		
+			<line fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="7" y1="21.5" x2="17" y2="21.5"/>
+		<polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="7.5,11.5 
+			6,11.5 4.5,14.5 		"/>
+		<polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="3,21.5 
+			0.5,21.5 0.5,16 2.5,14 5,9.5 9.5,9.5 9.5,19.5 		"/>
+		<polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="0.5,19.5 
+			23.5,19.5 23.5,21.5 21,21.5 		"/>
+		
+			<rect x="9.5" y="16.5" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="14" height="3"/>
+		<polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="14.5,9.5 
+			13.5,16.5 18,16.5 16.459,10.985 		"/>
+		<path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M14.75,9.801
+			c2.264,2.265,5.933,2.265,8.197,0L14.75,1.604C12.486,3.868,12.486,7.537,14.75,9.801z"/>
+		<path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M17.603,4.457
+			C18.609,3.451,21,3.552,21,3.552s0.099,2.391-0.905,3.397"/>
+	</g>
+</g>
+<g id="invisible_shape">
+	<rect fill="none" width="24" height="24"/>
+</g>
+</svg>

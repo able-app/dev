@@ -1,0 +1,28 @@
+{
+  "assets": {
+      "icon": {
+          "line": {
+            "christmas-ball"  :  { "value"  :  "assets/icons/line/81-christmas/christmas-ball.svg" },
+            "christmas-candle"  :  { "value"  :  "assets/icons/line/81-christmas/christmas-candle.svg" },
+            "christmas-tree"  :  { "value"  :  "assets/icons/line/81-christmas/christmas-tree.svg" },
+            "party-hat"  :  { "value"  :  "assets/icons/line/81-christmas/party-hat.svg" },
+            "santa-sleigh"  :  { "value"  :  "assets/icons/line/81-christmas/santa-sleigh.svg" },
+            "snow-crystal"  :  { "value"  :  "assets/icons/line/81-christmas/snow-crystal.svg" },
+            "snow-globe"  :  { "value"  :  "assets/icons/line/81-christmas/snow-globe.svg" },
+            "snowman"  :  { "value"  :  "assets/icons/line/81-christmas/snowman.svg" },
+            "star-wand"  :  { "value"  :  "assets/icons/line/81-christmas/star-wand.svg" }
+          },
+          "filled": {
+            "christmas-ball"  :  { "value"  :  "assets/icons/filled/81-christmas/christmas-ball.svg" },
+            "christmas-candle"  :  { "value"  :  "assets/icons/filled/81-christmas/christmas-candle.svg" },
+            "christmas-tree"  :  { "value"  :  "assets/icons/filled/81-christmas/christmas-tree.svg" },
+            "party-hat"  :  { "value"  :  "assets/icons/filled/81-christmas/party-hat.svg" },
+            "santa-sleigh"  :  { "value"  :  "assets/icons/filled/81-christmas/santa-sleigh.svg" },
+            "snow-crystal"  :  { "value"  :  "assets/icons/filled/81-christmas/snow-crystal.svg" },
+            "snow-globe"  :  { "value"  :  "assets/icons/filled/81-christmas/snow-globe.svg" },
+            "snowman"  :  { "value"  :  "assets/icons/filled/81-christmas/snowman.svg" },
+            "star-wand"  :  { "value"  :  "assets/icons/filled/81-christmas/star-wand.svg" }
+          }
+      }
+   }
+}

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="24px"
+	 height="24px" viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve">
+<g id="Outline_Icons_1_">
+	<g id="Outline_Icons">
+	</g>
+	<g id="New_icons_1_">
+		<g>
+			<g>
+				<path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M19.5,13v6.912
+					c0,0.877-0.671,1.588-1.5,1.588H5c-0.828,0-1.5-0.711-1.5-1.588V13"/>
+				
+					<line fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="8" y1="23.5" x2="15" y2="23.5"/>
+				
+					<line fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="11.5" y1="21.5" x2="11.5" y2="23.5"/>
+				<line fill="none" stroke="#000000" stroke-linejoin="round" stroke-miterlimit="10" x1="3.5" y1="18.5" x2="19.5" y2="18.5"/>
+			</g>
+			<g>
+				
+					<line fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="13.5" y1="13.5" x2="17.5" y2="9.5"/>
+				<polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+					14.5,9.5 17.5,9.5 17.5,12.5 				"/>
+			</g>
+			<g>
+				
+					<line fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="9.5" y1="13.5" x2="5.5" y2="9.5"/>
+				<polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+					8.5,9.5 5.5,9.5 5.5,12.5 				"/>
+			</g>
+			<circle fill="none" stroke="#000000" stroke-linejoin="round" stroke-miterlimit="10" cx="19" cy="2.5" r="2"/>
+			<path fill="none" stroke="#000000" stroke-linejoin="round" stroke-miterlimit="10" d="M19,4.5c-2.5,0-3.5,1.5-3.5,3h7
+				C22.5,6,21.5,4.5,19,4.5z"/>
+			<circle fill="none" stroke="#000000" stroke-linejoin="round" stroke-miterlimit="10" cx="4" cy="2.5" r="2"/>
+			<path fill="none" stroke="#000000" stroke-linejoin="round" stroke-miterlimit="10" d="M4,4.5c-2.5,0-3.5,1.5-3.5,3h7
+				C7.5,6,6.5,4.5,4,4.5z"/>
+		</g>
+	</g>
+</g>
+<g id="Invisible_Shape">
+	<rect fill="none" width="24" height="24"/>
+</g>
+</svg>

@@ -1,0 +1,54 @@
+{
+  "assets": {
+      "icon": {
+          "line": {
+            "alien-1"  :  { "value"  :  "assets/icons/line/63-space/alien-1.svg" },
+            "alien-2"  :  { "value"  :  "assets/icons/line/63-space/alien-2.svg" },
+            "astronaut-1"  :  { "value"  :  "assets/icons/line/63-space/astronaut-1.svg" },
+            "astronaut-2"  :  { "value"  :  "assets/icons/line/63-space/astronaut-2.svg" },
+            "comet"  :  { "value"  :  "assets/icons/line/63-space/comet.svg" },
+            "earth-moon-orbit"  :  { "value"  :  "assets/icons/line/63-space/earth-moon-orbit.svg" },
+            "eclipse-lunar"  :  { "value"  :  "assets/icons/line/63-space/eclipse-lunar.svg" },
+            "eclipse-solar"  :  { "value"  :  "assets/icons/line/63-space/eclipse-solar.svg" },
+            "laser-space-gun"  :  { "value"  :  "assets/icons/line/63-space/laser-space-gun.svg" },
+            "planet-ring-1"  :  { "value"  :  "assets/icons/line/63-space/planet-ring-1.svg" },
+            "planet-ring-2"  :  { "value"  :  "assets/icons/line/63-space/planet-ring-2.svg" },
+            "R2D2"  :  { "value"  :  "assets/icons/line/63-space/R2D2.svg" },
+            "rocket-orbit"  :  { "value"  :  "assets/icons/line/63-space/rocket-orbit.svg" },
+            "rocket"  :  { "value"  :  "assets/icons/line/63-space/rocket.svg" },
+            "satellite-truck"  :  { "value"  :  "assets/icons/line/63-space/satellite-truck.svg" },
+            "solar-system"  :  { "value"  :  "assets/icons/line/63-space/solar-system.svg" },
+            "space-rocket"  :  { "value"  :  "assets/icons/line/63-space/space-rocket.svg" },
+            "space-shuttle-1"  :  { "value"  :  "assets/icons/line/63-space/space-shuttle-1.svg" },
+            "space-shuttle-2"  :  { "value"  :  "assets/icons/line/63-space/space-shuttle-2.svg" },
+            "space-shuttle-3"  :  { "value"  :  "assets/icons/line/63-space/space-shuttle-3.svg" },
+            "star-constellation"  :  { "value"  :  "assets/icons/line/63-space/star-constellation.svg" },
+            "ufo"  :  { "value"  :  "assets/icons/line/63-space/ufo.svg" }
+          },
+          "filled": {
+            "alien-1"  :  { "value"  :  "assets/icons/filled/63-space/alien-1.svg" },
+            "alien-2"  :  { "value"  :  "assets/icons/filled/63-space/alien-2.svg" },
+            "astronaut-1"  :  { "value"  :  "assets/icons/filled/63-space/astronaut-1.svg" },
+            "astronaut-2"  :  { "value"  :  "assets/icons/filled/63-space/astronaut-2.svg" },
+            "comet"  :  { "value"  :  "assets/icons/filled/63-space/comet.svg" },
+            "earth-moon-orbit"  :  { "value"  :  "assets/icons/filled/63-space/earth-moon-orbit.svg" },
+            "eclipse-lunar"  :  { "value"  :  "assets/icons/filled/63-space/eclipse-lunar.svg" },
+            "eclipse-solar"  :  { "value"  :  "assets/icons/filled/63-space/eclipse-solar.svg" },
+            "laser-space-gun"  :  { "value"  :  "assets/icons/filled/63-space/laser-space-gun.svg" },
+            "planet-ring-1"  :  { "value"  :  "assets/icons/filled/63-space/planet-ring-1.svg" },
+            "planet-ring-2"  :  { "value"  :  "assets/icons/filled/63-space/planet-ring-2.svg" },
+            "R2D2"  :  { "value"  :  "assets/icons/filled/63-space/R2D2.svg" },
+            "rocket-orbit"  :  { "value"  :  "assets/icons/filled/63-space/rocket-orbit.svg" },
+            "rocket"  :  { "value"  :  "assets/icons/filled/63-space/rocket.svg" },
+            "satellite-truck"  :  { "value"  :  "assets/icons/filled/63-space/satellite-truck.svg" },
+            "solar-system"  :  { "value"  :  "assets/icons/filled/63-space/solar-system.svg" },
+            "space-rocket"  :  { "value"  :  "assets/icons/filled/63-space/space-rocket.svg" },
+            "space-shuttle-1"  :  { "value"  :  "assets/icons/filled/63-space/space-shuttle-1.svg" },
+            "space-shuttle-2"  :  { "value"  :  "assets/icons/filled/63-space/space-shuttle-2.svg" },
+            "space-shuttle-3"  :  { "value"  :  "assets/icons/filled/63-space/space-shuttle-3.svg" },
+            "star-constellation"  :  { "value"  :  "assets/icons/filled/63-space/star-constellation.svg" },
+            "ufo"  :  { "value"  :  "assets/icons/filled/63-space/ufo.svg" }
+          }
+      }
+   }
+}

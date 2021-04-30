@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="24px"
+	 height="24px" viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve">
+<g id="Filled_Icon">
+	<g>
+		<g>
+			<path d="M5.998,7.984L6,6H2.75C2.628,6,2.51,6.045,2.418,6.127l-2.09,1.858H5.998z"/>
+			<polygon points="14.998,7.984 15,6 9.002,6 9,7.984 			"/>
+			<g>
+				<path d="M8,7.984V6c0-2.206,1.794-4,4-4s4,1.794,4,4v1.984h1V6c0-2.757-2.243-5-5-5S7,3.243,7,6v1.984H8z"/>
+			</g>
+			<path d="M23.682,7.984l-1.964-1.849C21.625,6.049,21.502,6,21.375,6h-3.373L18,7.984H23.682z"/>
+		</g>
+		<path d="M0,9v14.5C0,23.776,0.224,24,0.5,24h23c0.276,0,0.5-0.224,0.5-0.5V9H0z M17.37,15.836l-4.988,5.5
+			c-0.203,0.224-0.545,0.214-0.739,0.001l-5.012-5.5C6.338,15.517,6.567,15,7,15h3v-3.5c0-0.276,0.224-0.5,0.5-0.5h3
+			c0.276,0,0.5,0.224,0.5,0.5V15h3C17.433,15,17.661,15.516,17.37,15.836z"/>
+	</g>
+</g>
+<g id="Invisible_Shape">
+	<rect fill="none" width="24" height="24"/>
+</g>
+</svg>

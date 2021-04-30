@@ -1,0 +1,60 @@
+{
+  "assets": {
+      "icon": {
+          "line": {
+            "caution-fence"  :  { "value"  :  "assets/icons/line/67-tools/caution-fence.svg" },
+            "measuring-tape"  :  { "value"  :  "assets/icons/line/67-tools/measuring-tape.svg" },
+            "mining-cart"  :  { "value"  :  "assets/icons/line/67-tools/mining-cart.svg" },
+            "tools-amperemeter"  :  { "value"  :  "assets/icons/line/67-tools/tools-amperemeter.svg" },
+            "tools-axe"  :  { "value"  :  "assets/icons/line/67-tools/tools-axe.svg" },
+            "tools-boox"  :  { "value"  :  "assets/icons/line/67-tools/tools-boox.svg" },
+            "tools-clamps"  :  { "value"  :  "assets/icons/line/67-tools/tools-clamps.svg" },
+            "tools-double-ratchet"  :  { "value"  :  "assets/icons/line/67-tools/tools-double-ratchet.svg" },
+            "tools-driller"  :  { "value"  :  "assets/icons/line/67-tools/tools-driller.svg" },
+            "tools-gardening"  :  { "value"  :  "assets/icons/line/67-tools/tools-gardening.svg" },
+            "tools-hammer-1"  :  { "value"  :  "assets/icons/line/67-tools/tools-hammer-1.svg" },
+            "tools-hammer-2"  :  { "value"  :  "assets/icons/line/67-tools/tools-hammer-2.svg" },
+            "tools-hammer-anvil"  :  { "value"  :  "assets/icons/line/67-tools/tools-hammer-anvil.svg" },
+            "tools-pickaxe"  :  { "value"  :  "assets/icons/line/67-tools/tools-pickaxe.svg" },
+            "tools-pincher"  :  { "value"  :  "assets/icons/line/67-tools/tools-pincher.svg" },
+            "tools-plunger"  :  { "value"  :  "assets/icons/line/67-tools/tools-plunger.svg" },
+            "tools-screw"  :  { "value"  :  "assets/icons/line/67-tools/tools-screw.svg" },
+            "tools-shovel"  :  { "value"  :  "assets/icons/line/67-tools/tools-shovel.svg" },
+            "tools-trowel"  :  { "value"  :  "assets/icons/line/67-tools/tools-trowel.svg" },
+            "tools-vice"  :  { "value"  :  "assets/icons/line/67-tools/tools-vice.svg" },
+            "tools-wheel-brace"  :  { "value"  :  "assets/icons/line/67-tools/tools-wheel-brace.svg" },
+            "tools-wood-saw"  :  { "value"  :  "assets/icons/line/67-tools/tools-wood-saw.svg" },
+            "tools-wrench-screwdriver"  :  { "value"  :  "assets/icons/line/67-tools/tools-wrench-screwdriver.svg" },
+            "tools-wrench"  :  { "value"  :  "assets/icons/line/67-tools/tools-wrench.svg" },
+            "traffic-cone"  :  { "value"  :  "assets/icons/line/67-tools/traffic-cone.svg" }
+          },
+          "filled": {
+            "caution-fence"  :  { "value"  :  "assets/icons/filled/67-tools/caution-fence.svg" },
+            "measuring-tape"  :  { "value"  :  "assets/icons/filled/67-tools/measuring-tape.svg" },
+            "mining-cart"  :  { "value"  :  "assets/icons/filled/67-tools/mining-cart.svg" },
+            "tools-amperemeter"  :  { "value"  :  "assets/icons/filled/67-tools/tools-amperemeter.svg" },
+            "tools-axe"  :  { "value"  :  "assets/icons/filled/67-tools/tools-axe.svg" },
+            "tools-boox"  :  { "value"  :  "assets/icons/filled/67-tools/tools-boox.svg" },
+            "tools-clamps"  :  { "value"  :  "assets/icons/filled/67-tools/tools-clamps.svg" },
+            "tools-double-ratchet"  :  { "value"  :  "assets/icons/filled/67-tools/tools-double-ratchet.svg" },
+            "tools-driller"  :  { "value"  :  "assets/icons/filled/67-tools/tools-driller.svg" },
+            "tools-gardening"  :  { "value"  :  "assets/icons/filled/67-tools/tools-gardening.svg" },
+            "tools-hammer-1"  :  { "value"  :  "assets/icons/filled/67-tools/tools-hammer-1.svg" },
+            "tools-hammer-2"  :  { "value"  :  "assets/icons/filled/67-tools/tools-hammer-2.svg" },
+            "tools-hammer-anvil"  :  { "value"  :  "assets/icons/filled/67-tools/tools-hammer-anvil.svg" },
+            "tools-pickaxe"  :  { "value"  :  "assets/icons/filled/67-tools/tools-pickaxe.svg" },
+            "tools-pincher"  :  { "value"  :  "assets/icons/filled/67-tools/tools-pincher.svg" },
+            "tools-plunger"  :  { "value"  :  "assets/icons/filled/67-tools/tools-plunger.svg" },
+            "tools-screw"  :  { "value"  :  "assets/icons/filled/67-tools/tools-screw.svg" },
+            "tools-shovel"  :  { "value"  :  "assets/icons/filled/67-tools/tools-shovel.svg" },
+            "tools-trowel"  :  { "value"  :  "assets/icons/filled/67-tools/tools-trowel.svg" },
+            "tools-vice"  :  { "value"  :  "assets/icons/filled/67-tools/tools-vice.svg" },
+            "tools-wheel-brace"  :  { "value"  :  "assets/icons/filled/67-tools/tools-wheel-brace.svg" },
+            "tools-wood-saw"  :  { "value"  :  "assets/icons/filled/67-tools/tools-wood-saw.svg" },
+            "tools-wrench-screwdriver"  :  { "value"  :  "assets/icons/filled/67-tools/tools-wrench-screwdriver.svg" },
+            "tools-wrench"  :  { "value"  :  "assets/icons/filled/67-tools/tools-wrench.svg" },
+            "traffic-cone"  :  { "value"  :  "assets/icons/filled/67-tools/traffic-cone.svg" }
+          }
+      }
+   }
+}

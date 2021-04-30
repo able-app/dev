@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="24px"
+	 height="24px" viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve">
+<g id="Outline_Icons">
+	<g>
+		<path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M7.5,23.5
+			c-1.104,0-2-0.896-2-2v-13c0-1.105,0.896-2,2-2h8c1.104,0,2,0.895,2,2v13c0,1.104-0.896,2-2,2H7.5z"/>
+		<polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="13.5,6.5 
+			12.5,4 10.5,4 9.5,6.5 		"/>
+		
+			<line fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="11.5" y1="0.5" x2="11.5" y2="4"/>
+		<polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="15,0.5 
+			8,0.5 5.938,3 		"/>
+		<path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M12.259,14.934
+			c-0.18-0.246-0.467-0.391-0.771-0.391s-0.592,0.145-0.772,0.391L9.252,16.93c-0.213,0.291-0.245,0.701-0.082,1.023
+			c0.163,0.32,0.493,0.547,0.854,0.547h2.928c0.36,0,0.69-0.227,0.854-0.547c0.163-0.322,0.131-0.721-0.082-1.012L12.259,14.934z"/>
+		
+			<circle fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="8.5" cy="14" r="1"/>
+		
+			<circle fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="11.5" cy="12" r="1"/>
+		
+			<circle fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="14.5" cy="14" r="1"/>
+	</g>
+</g>
+<g id="invisible_shape">
+	<rect fill="none" width="24" height="24"/>
+</g>
+</svg>

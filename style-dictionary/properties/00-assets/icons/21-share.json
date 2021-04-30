@@ -1,0 +1,50 @@
+{
+  "assets": {
+      "icon": {
+          "line": {
+            "megaphone-1"  :  { "value"  :  "assets/icons/line/21-share/megaphone-1.svg" },
+            "megaphone-2"  :  { "value"  :  "assets/icons/line/21-share/megaphone-2.svg" },
+            "rss-feed-box"  :  { "value"  :  "assets/icons/line/21-share/rss-feed-box.svg" },
+            "rss-feed"  :  { "value"  :  "assets/icons/line/21-share/rss-feed.svg" },
+            "satellite-dish"  :  { "value"  :  "assets/icons/line/21-share/satellite-dish.svg" },
+            "satellite"  :  { "value"  :  "assets/icons/line/21-share/satellite.svg" },
+            "share-box-forward-1"  :  { "value"  :  "assets/icons/line/21-share/share-box-forward-1.svg" },
+            "share-box-forward-2"  :  { "value"  :  "assets/icons/line/21-share/share-box-forward-2.svg" },
+            "share-box"  :  { "value"  :  "assets/icons/line/21-share/share-box.svg" },
+            "share-favorite"  :  { "value"  :  "assets/icons/line/21-share/share-favorite.svg" },
+            "share-location"  :  { "value"  :  "assets/icons/line/21-share/share-location.svg" },
+            "share-setting"  :  { "value"  :  "assets/icons/line/21-share/share-setting.svg" },
+            "share-time"  :  { "value"  :  "assets/icons/line/21-share/share-time.svg" },
+            "share"  :  { "value"  :  "assets/icons/line/21-share/share.svg" },
+            "signal-antenna-1"  :  { "value"  :  "assets/icons/line/21-share/signal-antenna-1.svg" },
+            "signal-antenna-2"  :  { "value"  :  "assets/icons/line/21-share/signal-antenna-2.svg" },
+            "signal-around"  :  { "value"  :  "assets/icons/line/21-share/signal-around.svg" },
+            "signal-person"  :  { "value"  :  "assets/icons/line/21-share/signal-person.svg" },
+            "signal-tower-1"  :  { "value"  :  "assets/icons/line/21-share/signal-tower-1.svg" },
+            "signal-tower-2"  :  { "value"  :  "assets/icons/line/21-share/signal-tower-2.svg" }
+          },
+          "filled": {
+            "megaphone-1"  :  { "value"  :  "assets/icons/filled/21-share/megaphone-1.svg" },
+            "megaphone-2"  :  { "value"  :  "assets/icons/filled/21-share/megaphone-2.svg" },
+            "rss-feed-box"  :  { "value"  :  "assets/icons/filled/21-share/rss-feed-box.svg" },
+            "rss-feed"  :  { "value"  :  "assets/icons/filled/21-share/rss-feed.svg" },
+            "satellite-dish"  :  { "value"  :  "assets/icons/filled/21-share/satellite-dish.svg" },
+            "satellite"  :  { "value"  :  "assets/icons/filled/21-share/satellite.svg" },
+            "share-box-forward-1"  :  { "value"  :  "assets/icons/filled/21-share/share-box-forward-1.svg" },
+            "share-box-forward-2"  :  { "value"  :  "assets/icons/filled/21-share/share-box-forward-2.svg" },
+            "share-box"  :  { "value"  :  "assets/icons/filled/21-share/share-box.svg" },
+            "share-favorite"  :  { "value"  :  "assets/icons/filled/21-share/share-favorite.svg" },
+            "share-location"  :  { "value"  :  "assets/icons/filled/21-share/share-location.svg" },
+            "share-setting"  :  { "value"  :  "assets/icons/filled/21-share/share-setting.svg" },
+            "share-time"  :  { "value"  :  "assets/icons/filled/21-share/share-time.svg" },
+            "share"  :  { "value"  :  "assets/icons/filled/21-share/share.svg" },
+            "signal-antenna-1"  :  { "value"  :  "assets/icons/filled/21-share/signal-antenna-1.svg" },
+            "signal-antenna-2"  :  { "value"  :  "assets/icons/filled/21-share/signal-antenna-2.svg" },
+            "signal-around"  :  { "value"  :  "assets/icons/filled/21-share/signal-around.svg" },
+            "signal-person"  :  { "value"  :  "assets/icons/filled/21-share/signal-person.svg" },
+            "signal-tower-1"  :  { "value"  :  "assets/icons/filled/21-share/signal-tower-1.svg" },
+            "signal-tower-2"  :  { "value"  :  "assets/icons/filled/21-share/signal-tower-2.svg" }
+          }
+      }
+   }
+}

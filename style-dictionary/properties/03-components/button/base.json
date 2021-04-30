@@ -1,0 +1,21 @@
+{
+  "button": {
+    "primary": {
+      "large-round": {
+              "height"              : {"value": ""},
+              "min-width"           : {"value": ""},
+              "min-Tap-Target-Size" : {"value": ""},
+              "padding"             : {"value": ""},
+              "radius"              : {"value": "4"},
+              "state?"               : {"value": "active"},
+              "label-align"         : {"value": "center"},
+              "label-text-icon": {
+                    "text-Size"     : {"value": ""},
+                    "icon-Size"     : {"value": ""},
+                    "icon-Position" : {"value": ""},
+                    "spacing"       : {"value": ""}
+              }
+      }
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "assets": {
+      "icon": {
+          "line": {
+            "lock-circle"  :  { "value"  :  "assets/icons/line/20-lock/lock-circle.svg" },
+            "lock-close-1"  :  { "value"  :  "assets/icons/line/20-lock/lock-close-1.svg" },
+            "lock-close-2"  :  { "value"  :  "assets/icons/line/20-lock/lock-close-2.svg" },
+            "lock-close-3"  :  { "value"  :  "assets/icons/line/20-lock/lock-close-3.svg" },
+            "lock-close-4"  :  { "value"  :  "assets/icons/line/20-lock/lock-close-4.svg" },
+            "lock-close-5"  :  { "value"  :  "assets/icons/line/20-lock/lock-close-5.svg" },
+            "lock-close-6"  :  { "value"  :  "assets/icons/line/20-lock/lock-close-6.svg" },
+            "lock-door"  :  { "value"  :  "assets/icons/line/20-lock/lock-door.svg" },
+            "lock-key"  :  { "value"  :  "assets/icons/line/20-lock/lock-key.svg" },
+            "lock-open-1"  :  { "value"  :  "assets/icons/line/20-lock/lock-open-1.svg" },
+            "lock-open-2"  :  { "value"  :  "assets/icons/line/20-lock/lock-open-2.svg" },
+            "lock-open-3"  :  { "value"  :  "assets/icons/line/20-lock/lock-open-3.svg" },
+            "lock-shield"  :  { "value"  :  "assets/icons/line/20-lock/lock-shield.svg" },
+            "lock-wheel"  :  { "value"  :  "assets/icons/line/20-lock/lock-wheel.svg" }
+          },
+          "filled": {
+            "lock-circle"  :  { "value"  :  "assets/icons/filled/20-lock/lock-circle.svg" },
+            "lock-close-1"  :  { "value"  :  "assets/icons/filled/20-lock/lock-close-1.svg" },
+            "lock-close-2"  :  { "value"  :  "assets/icons/filled/20-lock/lock-close-2.svg" },
+            "lock-close-3"  :  { "value"  :  "assets/icons/filled/20-lock/lock-close-3.svg" },
+            "lock-close-4"  :  { "value"  :  "assets/icons/filled/20-lock/lock-close-4.svg" },
+            "lock-close-5"  :  { "value"  :  "assets/icons/filled/20-lock/lock-close-5.svg" },
+            "lock-close-6"  :  { "value"  :  "assets/icons/filled/20-lock/lock-close-6.svg" },
+            "lock-door"  :  { "value"  :  "assets/icons/filled/20-lock/lock-door.svg" },
+            "lock-key"  :  { "value"  :  "assets/icons/filled/20-lock/lock-key.svg" },
+            "lock-open-1"  :  { "value"  :  "assets/icons/filled/20-lock/lock-open-1.svg" },
+            "lock-open-2"  :  { "value"  :  "assets/icons/filled/20-lock/lock-open-2.svg" },
+            "lock-open-3"  :  { "value"  :  "assets/icons/filled/20-lock/lock-open-3.svg" },
+            "lock-shield"  :  { "value"  :  "assets/icons/filled/20-lock/lock-shield.svg" },
+            "lock-wheel"  :  { "value"  :  "assets/icons/filled/20-lock/lock-wheel.svg" }
+          }
+      }
+   }
+}

@@ -1,0 +1,60 @@
+{
+  "assets": {
+      "icon": {
+          "line": {
+            "armchair-1"  :  { "value"  :  "assets/icons/line/66-furnitures/armchair-1.svg" },
+            "armchair-2"  :  { "value"  :  "assets/icons/line/66-furnitures/armchair-2.svg" },
+            "bench"  :  { "value"  :  "assets/icons/line/66-furnitures/bench.svg" },
+            "chair-1"  :  { "value"  :  "assets/icons/line/66-furnitures/chair-1.svg" },
+            "chair-2"  :  { "value"  :  "assets/icons/line/66-furnitures/chair-2.svg" },
+            "chair-3"  :  { "value"  :  "assets/icons/line/66-furnitures/chair-3.svg" },
+            "chair-4"  :  { "value"  :  "assets/icons/line/66-furnitures/chair-4.svg" },
+            "chair-5"  :  { "value"  :  "assets/icons/line/66-furnitures/chair-5.svg" },
+            "chair-6"  :  { "value"  :  "assets/icons/line/66-furnitures/chair-6.svg" },
+            "chair-office"  :  { "value"  :  "assets/icons/line/66-furnitures/chair-office.svg" },
+            "computer-desk"  :  { "value"  :  "assets/icons/line/66-furnitures/computer-desk.svg" },
+            "couch"  :  { "value"  :  "assets/icons/line/66-furnitures/couch.svg" },
+            "cupboard-1"  :  { "value"  :  "assets/icons/line/66-furnitures/cupboard-1.svg" },
+            "cupboard-2"  :  { "value"  :  "assets/icons/line/66-furnitures/cupboard-2.svg" },
+            "cupboard-3"  :  { "value"  :  "assets/icons/line/66-furnitures/cupboard-3.svg" },
+            "dining-table"  :  { "value"  :  "assets/icons/line/66-furnitures/dining-table.svg" },
+            "drawer"  :  { "value"  :  "assets/icons/line/66-furnitures/drawer.svg" },
+            "grill"  :  { "value"  :  "assets/icons/line/66-furnitures/grill.svg" },
+            "hanging-chair"  :  { "value"  :  "assets/icons/line/66-furnitures/hanging-chair.svg" },
+            "lamp-cabinet"  :  { "value"  :  "assets/icons/line/66-furnitures/lamp-cabinet.svg" },
+            "lockers"  :  { "value"  :  "assets/icons/line/66-furnitures/lockers.svg" },
+            "sofa"  :  { "value"  :  "assets/icons/line/66-furnitures/sofa.svg" },
+            "table"  :  { "value"  :  "assets/icons/line/66-furnitures/table.svg" },
+            "television-stand"  :  { "value"  :  "assets/icons/line/66-furnitures/television-stand.svg" },
+            "toilet-sink"  :  { "value"  :  "assets/icons/line/66-furnitures/toilet-sink.svg" }
+          },
+          "filled": {
+            "armchair-1"  :  { "value"  :  "assets/icons/filled/66-furnitures/armchair-1.svg" },
+            "armchair-2"  :  { "value"  :  "assets/icons/filled/66-furnitures/armchair-2.svg" },
+            "bench"  :  { "value"  :  "assets/icons/filled/66-furnitures/bench.svg" },
+            "chair-1"  :  { "value"  :  "assets/icons/filled/66-furnitures/chair-1.svg" },
+            "chair-2"  :  { "value"  :  "assets/icons/filled/66-furnitures/chair-2.svg" },
+            "chair-3"  :  { "value"  :  "assets/icons/filled/66-furnitures/chair-3.svg" },
+            "chair-4"  :  { "value"  :  "assets/icons/filled/66-furnitures/chair-4.svg" },
+            "chair-5"  :  { "value"  :  "assets/icons/filled/66-furnitures/chair-5.svg" },
+            "chair-6"  :  { "value"  :  "assets/icons/filled/66-furnitures/chair-6.svg" },
+            "chair-office"  :  { "value"  :  "assets/icons/filled/66-furnitures/chair-office.svg" },
+            "computer-desk"  :  { "value"  :  "assets/icons/filled/66-furnitures/computer-desk.svg" },
+            "couch"  :  { "value"  :  "assets/icons/filled/66-furnitures/couch.svg" },
+            "cupboard-1"  :  { "value"  :  "assets/icons/filled/66-furnitures/cupboard-1.svg" },
+            "cupboard-2"  :  { "value"  :  "assets/icons/filled/66-furnitures/cupboard-2.svg" },
+            "cupboard-3"  :  { "value"  :  "assets/icons/filled/66-furnitures/cupboard-3.svg" },
+            "dining-table"  :  { "value"  :  "assets/icons/filled/66-furnitures/dining-table.svg" },
+            "drawer"  :  { "value"  :  "assets/icons/filled/66-furnitures/drawer.svg" },
+            "grill"  :  { "value"  :  "assets/icons/filled/66-furnitures/grill.svg" },
+            "hanging-chair"  :  { "value"  :  "assets/icons/filled/66-furnitures/hanging-chair.svg" },
+            "lamp-cabinet"  :  { "value"  :  "assets/icons/filled/66-furnitures/lamp-cabinet.svg" },
+            "lockers"  :  { "value"  :  "assets/icons/filled/66-furnitures/lockers.svg" },
+            "sofa"  :  { "value"  :  "assets/icons/filled/66-furnitures/sofa.svg" },
+            "table"  :  { "value"  :  "assets/icons/filled/66-furnitures/table.svg" },
+            "television-stand"  :  { "value"  :  "assets/icons/filled/66-furnitures/television-stand.svg" },
+            "toilet-sink"  :  { "value"  :  "assets/icons/filled/66-furnitures/toilet-sink.svg" }
+          }
+      }
+   }
+}

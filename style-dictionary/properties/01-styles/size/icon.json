@@ -1,0 +1,15 @@
+{
+  "size": {
+    "icon": {
+      "small": { "value":"12" },
+      "medium" : { "value":"16" },
+      "large": { "value":"24" },
+      "xl"   : { "value":"48" },
+      "xxl"   : { "value":"56" },
+      "xxxl"   : { "value":"64" },
+      "huge"  : { "value":"136" },
+      "base"     : { "value": "{size.icon.medium.value}" },
+      "nav"     : { "value": "{size.icon.large.value}" }
+    }
+  }
+}

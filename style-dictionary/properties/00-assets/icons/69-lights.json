@@ -1,0 +1,62 @@
+{
+  "assets": {
+      "icon": {
+          "line": {
+            "candle"  :  { "value"  :  "assets/icons/line/69-lights/candle.svg" },
+            "chandeliers"  :  { "value"  :  "assets/icons/line/69-lights/chandeliers.svg" },
+            "fire-camp"  :  { "value"  :  "assets/icons/line/69-lights/fire-camp.svg" },
+            "fire-lamp-1"  :  { "value"  :  "assets/icons/line/69-lights/fire-lamp-1.svg" },
+            "fire-lamp-2"  :  { "value"  :  "assets/icons/line/69-lights/fire-lamp-2.svg" },
+            "fire-lighter"  :  { "value"  :  "assets/icons/line/69-lights/fire-lighter.svg" },
+            "flame"  :  { "value"  :  "assets/icons/line/69-lights/flame.svg" },
+            "flashlight"  :  { "value"  :  "assets/icons/line/69-lights/flashlight.svg" },
+            "gas-tank"  :  { "value"  :  "assets/icons/line/69-lights/gas-tank.svg" },
+            "hanging-lamp-1"  :  { "value"  :  "assets/icons/line/69-lights/hanging-lamp-1.svg" },
+            "hanging-lamp-2"  :  { "value"  :  "assets/icons/line/69-lights/hanging-lamp-2.svg" },
+            "lamp-1"  :  { "value"  :  "assets/icons/line/69-lights/lamp-1.svg" },
+            "lamp-2"  :  { "value"  :  "assets/icons/line/69-lights/lamp-2.svg" },
+            "lamp-3"  :  { "value"  :  "assets/icons/line/69-lights/lamp-3.svg" },
+            "lamp-4"  :  { "value"  :  "assets/icons/line/69-lights/lamp-4.svg" },
+            "lamp-5"  :  { "value"  :  "assets/icons/line/69-lights/lamp-5.svg" },
+            "lamp-6"  :  { "value"  :  "assets/icons/line/69-lights/lamp-6.svg" },
+            "lamp-7"  :  { "value"  :  "assets/icons/line/69-lights/lamp-7.svg" },
+            "lamp-candle"  :  { "value"  :  "assets/icons/line/69-lights/lamp-candle.svg" },
+            "lamp-table"  :  { "value"  :  "assets/icons/line/69-lights/lamp-table.svg" },
+            "lightbulb-1"  :  { "value"  :  "assets/icons/line/69-lights/lightbulb-1.svg" },
+            "lightbulb-2"  :  { "value"  :  "assets/icons/line/69-lights/lightbulb-2.svg" },
+            "lightbulb-3"  :  { "value"  :  "assets/icons/line/69-lights/lightbulb-3.svg" },
+            "lightbulb-4"  :  { "value"  :  "assets/icons/line/69-lights/lightbulb-4.svg" },
+            "matchstick"  :  { "value"  :  "assets/icons/line/69-lights/matchstick.svg" },
+            "torch"  :  { "value"  :  "assets/icons/line/69-lights/torch.svg" }
+          },
+          "filled": {
+            "candle"  :  { "value"  :  "assets/icons/filled/69-lights/candle.svg" },
+            "chandeliers"  :  { "value"  :  "assets/icons/filled/69-lights/chandeliers.svg" },
+            "fire-camp"  :  { "value"  :  "assets/icons/filled/69-lights/fire-camp.svg" },
+            "fire-lamp-1"  :  { "value"  :  "assets/icons/filled/69-lights/fire-lamp-1.svg" },
+            "fire-lamp-2"  :  { "value"  :  "assets/icons/filled/69-lights/fire-lamp-2.svg" },
+            "fire-lighter"  :  { "value"  :  "assets/icons/filled/69-lights/fire-lighter.svg" },
+            "flame"  :  { "value"  :  "assets/icons/filled/69-lights/flame.svg" },
+            "flashlight"  :  { "value"  :  "assets/icons/filled/69-lights/flashlight.svg" },
+            "gas-tank"  :  { "value"  :  "assets/icons/filled/69-lights/gas-tank.svg" },
+            "hanging-lamp-1"  :  { "value"  :  "assets/icons/filled/69-lights/hanging-lamp-1.svg" },
+            "hanging-lamp-2"  :  { "value"  :  "assets/icons/filled/69-lights/hanging-lamp-2.svg" },
+            "lamp-1"  :  { "value"  :  "assets/icons/filled/69-lights/lamp-1.svg" },
+            "lamp-2"  :  { "value"  :  "assets/icons/filled/69-lights/lamp-2.svg" },
+            "lamp-3"  :  { "value"  :  "assets/icons/filled/69-lights/lamp-3.svg" },
+            "lamp-4"  :  { "value"  :  "assets/icons/filled/69-lights/lamp-4.svg" },
+            "lamp-5"  :  { "value"  :  "assets/icons/filled/69-lights/lamp-5.svg" },
+            "lamp-6"  :  { "value"  :  "assets/icons/filled/69-lights/lamp-6.svg" },
+            "lamp-7"  :  { "value"  :  "assets/icons/filled/69-lights/lamp-7.svg" },
+            "lamp-candle"  :  { "value"  :  "assets/icons/filled/69-lights/lamp-candle.svg" },
+            "lamp-table"  :  { "value"  :  "assets/icons/filled/69-lights/lamp-table.svg" },
+            "lightbulb-1"  :  { "value"  :  "assets/icons/filled/69-lights/lightbulb-1.svg" },
+            "lightbulb-2"  :  { "value"  :  "assets/icons/filled/69-lights/lightbulb-2.svg" },
+            "lightbulb-3"  :  { "value"  :  "assets/icons/filled/69-lights/lightbulb-3.svg" },
+            "lightbulb-4"  :  { "value"  :  "assets/icons/filled/69-lights/lightbulb-4.svg" },
+            "matchstick"  :  { "value"  :  "assets/icons/filled/69-lights/matchstick.svg" },
+            "torch"  :  { "value"  :  "assets/icons/filled/69-lights/torch.svg" }
+          }
+      }
+   }
+}

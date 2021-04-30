@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="24px"
+	 height="24px" viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve">
+<g id="Outline_Icons">
+	<g>
+		
+			<circle fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="12" cy="12" r="11.5"/>
+		
+			<line fill="none" stroke="#000000" stroke-linejoin="round" stroke-miterlimit="10" x1="2.914" y1="14.434" x2="20.363" y2="7.754"/>
+		<polygon fill="none" stroke="#000000" stroke-linejoin="round" stroke-miterlimit="10" points="20.363,7.754 19.314,14.805 
+			11.23,17.521 2.914,14.434 11.23,4.879 		"/>
+		
+			<line fill="none" stroke="#000000" stroke-linejoin="round" stroke-miterlimit="10" x1="11.23" y1="4.879" x2="19.314" y2="14.805"/>
+		<polyline fill="none" stroke="#000000" stroke-linejoin="round" stroke-miterlimit="10" points="11.23,4.879 9.348,12.113 
+			11.23,17.521 		"/>
+		
+			<line fill="none" stroke="#000000" stroke-linejoin="round" stroke-miterlimit="10" x1="11.23" y1="17.521" x2="20.363" y2="7.754"/>
+	</g>
+</g>
+<g id="Frames-24px">
+	<rect fill="none" width="24" height="24"/>
+</g>
+</svg>

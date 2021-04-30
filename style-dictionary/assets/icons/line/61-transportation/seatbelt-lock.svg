@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="24px"
+	 height="24px" viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve">
+<g id="Outline_Icons">
+	<g>
+		
+			<rect x="0.156" y="4.238" transform="matrix(-0.7071 0.7071 -0.7071 -0.7071 14.9202 6.2955)" fill="none" stroke="#000000" stroke-linejoin="round" stroke-miterlimit="10" width="12" height="4"/>
+		<path fill="none" stroke="#000000" stroke-linejoin="round" stroke-miterlimit="10" d="M7.278,13.016
+			c0.781,0.781,2.048,0.781,2.828,0l2.829-2.828c0.781-0.781,0.781-2.047,0-2.828l-2.536-2.535L4.743,10.48L7.278,13.016z"/>
+		
+			<rect x="7.485" y="7.274" transform="matrix(-0.7071 0.7071 -0.7071 -0.7071 20.5419 8.6241)" fill="none" stroke="#000000" stroke-linejoin="round" stroke-miterlimit="10" width="2" height="2.585"/>
+		
+			<line fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="0.853" y1="0.935" x2="4.742" y2="4.824"/>
+		<polygon fill="none" stroke="#000000" stroke-linejoin="round" stroke-miterlimit="10" points="23.129,16.098 16.059,23.169 
+			11.109,18.22 10.755,15.744 15.706,10.795 18.18,11.148 		"/>
+		
+			<line fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="23.483" y1="23.522" x2="19.593" y2="19.635"/>
+		
+			<rect x="13.766" y="14.805" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -6.9725 16.7772)" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="5.999" height="4"/>
+		
+			<line fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="21.51" y1="6.519" x2="15.87" y2="0.893"/>
+		<polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+			17.01,6.519 21.51,6.519 21.51,2.019 		"/>
+		
+			<line fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="1.51" y1="16.519" x2="7.517" y2="22.482"/>
+		<polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+			6.01,16.519 1.51,16.519 1.51,21.019 		"/>
+	</g>
+</g>
+<g id="invisible_shape">
+	<rect fill="none" width="24" height="24"/>
+</g>
+</svg>

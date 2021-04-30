@@ -1,0 +1,42 @@
+{
+  "assets": {
+      "icon": {
+          "line": {
+            "arrow-curve"  :  { "value"  :  "assets/icons/line/29-controls/arrow-curve.svg" },
+            "button-power-1"  :  { "value"  :  "assets/icons/line/29-controls/button-power-1.svg" },
+            "button-power-2"  :  { "value"  :  "assets/icons/line/29-controls/button-power-2.svg" },
+            "button-power-3"  :  { "value"  :  "assets/icons/line/29-controls/button-power-3.svg" },
+            "crop-area"  :  { "value"  :  "assets/icons/line/29-controls/crop-area.svg" },
+            "cross-over"  :  { "value"  :  "assets/icons/line/29-controls/cross-over.svg" },
+            "loop-back"  :  { "value"  :  "assets/icons/line/29-controls/loop-back.svg" },
+            "loop-infinite-1"  :  { "value"  :  "assets/icons/line/29-controls/loop-infinite-1.svg" },
+            "loop-infinite-2"  :  { "value"  :  "assets/icons/line/29-controls/loop-infinite-2.svg" },
+            "loop-infinite-3"  :  { "value"  :  "assets/icons/line/29-controls/loop-infinite-3.svg" },
+            "refresh-one"  :  { "value"  :  "assets/icons/line/29-controls/refresh-one.svg" },
+            "split"  :  { "value"  :  "assets/icons/line/29-controls/split.svg" },
+            "syncing"  :  { "value"  :  "assets/icons/line/29-controls/syncing.svg" },
+            "zigzag-1"  :  { "value"  :  "assets/icons/line/29-controls/zigzag-1.svg" },
+            "zigzag-3"  :  { "value"  :  "assets/icons/line/29-controls/zigzag-3.svg" },
+            "zigziag-2"  :  { "value"  :  "assets/icons/line/29-controls/zigziag-2.svg" }
+          },
+          "filled": {
+            "arrow-curve"  :  { "value"  :  "assets/icons/filled/29-controls/arrow-curve.svg" },
+            "button-power-1"  :  { "value"  :  "assets/icons/filled/29-controls/button-power-1.svg" },
+            "button-power-2"  :  { "value"  :  "assets/icons/filled/29-controls/button-power-2.svg" },
+            "button-power-3"  :  { "value"  :  "assets/icons/filled/29-controls/button-power-3.svg" },
+            "crop-area"  :  { "value"  :  "assets/icons/filled/29-controls/crop-area.svg" },
+            "cross-over"  :  { "value"  :  "assets/icons/filled/29-controls/cross-over.svg" },
+            "loop-back"  :  { "value"  :  "assets/icons/filled/29-controls/loop-back.svg" },
+            "loop-infinite-1"  :  { "value"  :  "assets/icons/filled/29-controls/loop-infinite-1.svg" },
+            "loop-infinite-2"  :  { "value"  :  "assets/icons/filled/29-controls/loop-infinite-2.svg" },
+            "loop-infinite-3"  :  { "value"  :  "assets/icons/filled/29-controls/loop-infinite-3.svg" },
+            "refresh-one"  :  { "value"  :  "assets/icons/filled/29-controls/refresh-one.svg" },
+            "split"  :  { "value"  :  "assets/icons/filled/29-controls/split.svg" },
+            "syncing"  :  { "value"  :  "assets/icons/filled/29-controls/syncing.svg" },
+            "zigzag-1"  :  { "value"  :  "assets/icons/filled/29-controls/zigzag-1.svg" },
+            "zigzag-3"  :  { "value"  :  "assets/icons/filled/29-controls/zigzag-3.svg" },
+            "zigziag-2"  :  { "value"  :  "assets/icons/filled/29-controls/zigziag-2.svg" }
+          }
+      }
+   }
+}

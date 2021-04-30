@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="24px"
+	 height="24px" viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve">
+<g id="Outline_Icons">
+	<g>
+		<path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M19,4.5h-3.182
+			l-2.183-2h-3.271l-2.183,2H5c-0.825,0-1.5,0.856-1.5,1.682V13c0,0.825,0.675,1.5,1.5,1.5h4l3,5.5l3-5.5h4
+			c0.825,0,1.5-0.675,1.5-1.5V6.182C20.5,5.356,19.825,4.5,19,4.5z"/>
+		<circle fill="none" stroke="#000000" stroke-linejoin="round" stroke-miterlimit="10" cx="12" cy="9" r="3"/>
+		<g>
+			<path d="M17.5,7C17.224,7,17,7.224,17,7.5S17.224,8,17.5,8S18,7.776,18,7.5S17.776,7,17.5,7L17.5,7z"/>
+		</g>
+	</g>
+</g>
+<g id="Invisible_Shape">
+	<rect fill="none" width="24" height="24"/>
+</g>
+</svg>

@@ -1,0 +1,40 @@
+{
+  "assets": {
+      "icon": {
+          "line": {
+            "check-1"  :  { "value"  :  "assets/icons/line/02-status/check-1.svg" },
+            "check-2"  :  { "value"  :  "assets/icons/line/02-status/check-2.svg" },
+            "check-badge"  :  { "value"  :  "assets/icons/line/02-status/check-badge.svg" },
+            "check-box-1"  :  { "value"  :  "assets/icons/line/02-status/check-box-1.svg" },
+            "check-box-2"  :  { "value"  :  "assets/icons/line/02-status/check-box-2.svg" },
+            "check-circle-1"  :  { "value"  :  "assets/icons/line/02-status/check-circle-1.svg" },
+            "check-circle-2"  :  { "value"  :  "assets/icons/line/02-status/check-circle-2.svg" },
+            "check-double-1"  :  { "value"  :  "assets/icons/line/02-status/check-double-1.svg" },
+            "check-double-2"  :  { "value"  :  "assets/icons/line/02-status/check-double-2.svg" },
+            "check-shield"  :  { "value"  :  "assets/icons/line/02-status/check-shield.svg" },
+            "checklist"  :  { "value"  :  "assets/icons/line/02-status/checklist.svg" },
+            "close-badge"  :  { "value"  :  "assets/icons/line/02-status/close-badge.svg" },
+            "close-shield"  :  { "value"  :  "assets/icons/line/02-status/close-shield.svg" },
+            "close"  :  { "value"  :  "assets/icons/line/02-status/close.svg" },
+            "cursor-choose"  :  { "value"  :  "assets/icons/line/02-status/cursor-choose.svg" }
+          },
+          "filled": {
+            "check-1"  :  { "value"  :  "assets/icons/filled/02-status/check-1.svg" },
+            "check-2"  :  { "value"  :  "assets/icons/filled/02-status/check-2.svg" },
+            "check-badge"  :  { "value"  :  "assets/icons/filled/02-status/check-badge.svg" },
+            "check-box-1"  :  { "value"  :  "assets/icons/filled/02-status/check-box-1.svg" },
+            "check-box-2"  :  { "value"  :  "assets/icons/filled/02-status/check-box-2.svg" },
+            "check-circle-1"  :  { "value"  :  "assets/icons/filled/02-status/check-circle-1.svg" },
+            "check-circle-2"  :  { "value"  :  "assets/icons/filled/02-status/check-circle-2.svg" },
+            "check-double-1"  :  { "value"  :  "assets/icons/filled/02-status/check-double-1.svg" },
+            "check-double-2"  :  { "value"  :  "assets/icons/filled/02-status/check-double-2.svg" },
+            "check-shield"  :  { "value"  :  "assets/icons/filled/02-status/check-shield.svg" },
+            "checklist"  :  { "value"  :  "assets/icons/filled/02-status/checklist.svg" },
+            "close-badge"  :  { "value"  :  "assets/icons/filled/02-status/close-badge.svg" },
+            "close-shield"  :  { "value"  :  "assets/icons/filled/02-status/close-shield.svg" },
+            "close"  :  { "value"  :  "assets/icons/filled/02-status/close.svg" },
+            "cursor-choose"  :  { "value"  :  "assets/icons/filled/02-status/cursor-choose.svg" }
+          }
+      }
+   }
+}

@@ -1,0 +1,58 @@
+{
+  "assets": {
+      "icon": {
+          "line": {
+            "bank-notes-1"  :  { "value"  :  "assets/icons/line/44-money/bank-notes-1.svg" },
+            "bank-notes-2"  :  { "value"  :  "assets/icons/line/44-money/bank-notes-2.svg" },
+            "bank-notes-3"  :  { "value"  :  "assets/icons/line/44-money/bank-notes-3.svg" },
+            "bank-notes-atm"  :  { "value"  :  "assets/icons/line/44-money/bank-notes-atm.svg" },
+            "cheque"  :  { "value"  :  "assets/icons/line/44-money/cheque.svg" },
+            "coin-bank-note"  :  { "value"  :  "assets/icons/line/44-money/coin-bank-note.svg" },
+            "coin-receive"  :  { "value"  :  "assets/icons/line/44-money/coin-receive.svg" },
+            "coins-1"  :  { "value"  :  "assets/icons/line/44-money/coins-1.svg" },
+            "coins-2"  :  { "value"  :  "assets/icons/line/44-money/coins-2.svg" },
+            "coins-3"  :  { "value"  :  "assets/icons/line/44-money/coins-3.svg" },
+            "credit-card-amex"  :  { "value"  :  "assets/icons/line/44-money/credit-card-amex.svg" },
+            "credit-card-hand"  :  { "value"  :  "assets/icons/line/44-money/credit-card-hand.svg" },
+            "credit-card-lock"  :  { "value"  :  "assets/icons/line/44-money/credit-card-lock.svg" },
+            "credit-card-master-card"  :  { "value"  :  "assets/icons/line/44-money/credit-card-master-card.svg" },
+            "credit-card-visa"  :  { "value"  :  "assets/icons/line/44-money/credit-card-visa.svg" },
+            "credit-card"  :  { "value"  :  "assets/icons/line/44-money/credit-card.svg" },
+            "money-bag-dollar"  :  { "value"  :  "assets/icons/line/44-money/money-bag-dollar.svg" },
+            "money-bag-euro"  :  { "value"  :  "assets/icons/line/44-money/money-bag-euro.svg" },
+            "piggy-bank"  :  { "value"  :  "assets/icons/line/44-money/piggy-bank.svg" },
+            "purse-1"  :  { "value"  :  "assets/icons/line/44-money/purse-1.svg" },
+            "purse-2"  :  { "value"  :  "assets/icons/line/44-money/purse-2.svg" },
+            "wallet-1"  :  { "value"  :  "assets/icons/line/44-money/wallet-1.svg" },
+            "wallet-2"  :  { "value"  :  "assets/icons/line/44-money/wallet-2.svg" },
+            "wallet-3"  :  { "value"  :  "assets/icons/line/44-money/wallet-3.svg" }
+          },
+          "filled": {
+            "bank-notes-1"  :  { "value"  :  "assets/icons/filled/44-money/bank-notes-1.svg" },
+            "bank-notes-2"  :  { "value"  :  "assets/icons/filled/44-money/bank-notes-2.svg" },
+            "bank-notes-3"  :  { "value"  :  "assets/icons/filled/44-money/bank-notes-3.svg" },
+            "bank-notes-atm"  :  { "value"  :  "assets/icons/filled/44-money/bank-notes-atm.svg" },
+            "cheque"  :  { "value"  :  "assets/icons/filled/44-money/cheque.svg" },
+            "coin-bank-note"  :  { "value"  :  "assets/icons/filled/44-money/coin-bank-note.svg" },
+            "coin-receive"  :  { "value"  :  "assets/icons/filled/44-money/coin-receive.svg" },
+            "coins-1"  :  { "value"  :  "assets/icons/filled/44-money/coins-1.svg" },
+            "coins-2"  :  { "value"  :  "assets/icons/filled/44-money/coins-2.svg" },
+            "coins-3"  :  { "value"  :  "assets/icons/filled/44-money/coins-3.svg" },
+            "credit-card-amex"  :  { "value"  :  "assets/icons/filled/44-money/credit-card-amex.svg" },
+            "credit-card-hand"  :  { "value"  :  "assets/icons/filled/44-money/credit-card-hand.svg" },
+            "credit-card-lock"  :  { "value"  :  "assets/icons/filled/44-money/credit-card-lock.svg" },
+            "credit-card-master-card"  :  { "value"  :  "assets/icons/filled/44-money/credit-card-master-card.svg" },
+            "credit-card-visa"  :  { "value"  :  "assets/icons/filled/44-money/credit-card-visa.svg" },
+            "credit-card"  :  { "value"  :  "assets/icons/filled/44-money/credit-card.svg" },
+            "money-bag-dollar"  :  { "value"  :  "assets/icons/filled/44-money/money-bag-dollar.svg" },
+            "money-bag-euro"  :  { "value"  :  "assets/icons/filled/44-money/money-bag-euro.svg" },
+            "piggy-bank"  :  { "value"  :  "assets/icons/filled/44-money/piggy-bank.svg" },
+            "purse-1"  :  { "value"  :  "assets/icons/filled/44-money/purse-1.svg" },
+            "purse-2"  :  { "value"  :  "assets/icons/filled/44-money/purse-2.svg" },
+            "wallet-1"  :  { "value"  :  "assets/icons/filled/44-money/wallet-1.svg" },
+            "wallet-2"  :  { "value"  :  "assets/icons/filled/44-money/wallet-2.svg" },
+            "wallet-3"  :  { "value"  :  "assets/icons/filled/44-money/wallet-3.svg" }
+          }
+      }
+   }
+}

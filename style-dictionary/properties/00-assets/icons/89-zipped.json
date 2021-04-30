@@ -1,0 +1,60 @@
+{
+  "assets": {
+      "icon": {
+          "line": {
+            "compress"  :  { "value"  :  "assets/icons/line/89-zipped/compress.svg" },
+            "file-format-rar"  :  { "value"  :  "assets/icons/line/89-zipped/file-format-rar.svg" },
+            "file-format-zip"  :  { "value"  :  "assets/icons/line/89-zipped/file-format-zip.svg" },
+            "file-zipped-add"  :  { "value"  :  "assets/icons/line/89-zipped/file-zipped-add.svg" },
+            "file-zipped-block"  :  { "value"  :  "assets/icons/line/89-zipped/file-zipped-block.svg" },
+            "file-zipped-cash"  :  { "value"  :  "assets/icons/line/89-zipped/file-zipped-cash.svg" },
+            "file-zipped-check"  :  { "value"  :  "assets/icons/line/89-zipped/file-zipped-check.svg" },
+            "file-zipped-delete"  :  { "value"  :  "assets/icons/line/89-zipped/file-zipped-delete.svg" },
+            "file-zipped-download"  :  { "value"  :  "assets/icons/line/89-zipped/file-zipped-download.svg" },
+            "file-zipped-edit"  :  { "value"  :  "assets/icons/line/89-zipped/file-zipped-edit.svg" },
+            "file-zipped-editquestion"  :  { "value"  :  "assets/icons/line/89-zipped/file-zipped-editquestion.svg" },
+            "file-zipped-favorite-star"  :  { "value"  :  "assets/icons/line/89-zipped/file-zipped-favorite-star.svg" },
+            "file-zipped-home"  :  { "value"  :  "assets/icons/line/89-zipped/file-zipped-home.svg" },
+            "file-zipped-information"  :  { "value"  :  "assets/icons/line/89-zipped/file-zipped-information.svg" },
+            "file-zipped-lock"  :  { "value"  :  "assets/icons/line/89-zipped/file-zipped-lock.svg" },
+            "file-zipped-refresh"  :  { "value"  :  "assets/icons/line/89-zipped/file-zipped-refresh.svg" },
+            "file-zipped-search"  :  { "value"  :  "assets/icons/line/89-zipped/file-zipped-search.svg" },
+            "file-zipped-secure"  :  { "value"  :  "assets/icons/line/89-zipped/file-zipped-secure.svg" },
+            "file-zipped-setting"  :  { "value"  :  "assets/icons/line/89-zipped/file-zipped-setting.svg" },
+            "file-zipped-share"  :  { "value"  :  "assets/icons/line/89-zipped/file-zipped-share.svg" },
+            "file-zipped-subtract"  :  { "value"  :  "assets/icons/line/89-zipped/file-zipped-subtract.svg" },
+            "file-zipped-timeout"  :  { "value"  :  "assets/icons/line/89-zipped/file-zipped-timeout.svg" },
+            "file-zipped-upload"  :  { "value"  :  "assets/icons/line/89-zipped/file-zipped-upload.svg" },
+            "file-zipped-warning"  :  { "value"  :  "assets/icons/line/89-zipped/file-zipped-warning.svg" },
+            "file-zipped"  :  { "value"  :  "assets/icons/line/89-zipped/file-zipped.svg" }
+          },
+          "filled": {
+            "compress"  :  { "value"  :  "assets/icons/filled/89-zipped/compress.svg" },
+            "file-format-rar"  :  { "value"  :  "assets/icons/filled/89-zipped/file-format-rar.svg" },
+            "file-format-zip"  :  { "value"  :  "assets/icons/filled/89-zipped/file-format-zip.svg" },
+            "file-zipped-add"  :  { "value"  :  "assets/icons/filled/89-zipped/file-zipped-add.svg" },
+            "file-zipped-block"  :  { "value"  :  "assets/icons/filled/89-zipped/file-zipped-block.svg" },
+            "file-zipped-cash"  :  { "value"  :  "assets/icons/filled/89-zipped/file-zipped-cash.svg" },
+            "file-zipped-check"  :  { "value"  :  "assets/icons/filled/89-zipped/file-zipped-check.svg" },
+            "file-zipped-delete"  :  { "value"  :  "assets/icons/filled/89-zipped/file-zipped-delete.svg" },
+            "file-zipped-download"  :  { "value"  :  "assets/icons/filled/89-zipped/file-zipped-download.svg" },
+            "file-zipped-edit"  :  { "value"  :  "assets/icons/filled/89-zipped/file-zipped-edit.svg" },
+            "file-zipped-editquestion"  :  { "value"  :  "assets/icons/filled/89-zipped/file-zipped-editquestion.svg" },
+            "file-zipped-favorite-star"  :  { "value"  :  "assets/icons/filled/89-zipped/file-zipped-favorite-star.svg" },
+            "file-zipped-home"  :  { "value"  :  "assets/icons/filled/89-zipped/file-zipped-home.svg" },
+            "file-zipped-information"  :  { "value"  :  "assets/icons/filled/89-zipped/file-zipped-information.svg" },
+            "file-zipped-lock"  :  { "value"  :  "assets/icons/filled/89-zipped/file-zipped-lock.svg" },
+            "file-zipped-refresh"  :  { "value"  :  "assets/icons/filled/89-zipped/file-zipped-refresh.svg" },
+            "file-zipped-search"  :  { "value"  :  "assets/icons/filled/89-zipped/file-zipped-search.svg" },
+            "file-zipped-secure"  :  { "value"  :  "assets/icons/filled/89-zipped/file-zipped-secure.svg" },
+            "file-zipped-setting"  :  { "value"  :  "assets/icons/filled/89-zipped/file-zipped-setting.svg" },
+            "file-zipped-share"  :  { "value"  :  "assets/icons/filled/89-zipped/file-zipped-share.svg" },
+            "file-zipped-subtract"  :  { "value"  :  "assets/icons/filled/89-zipped/file-zipped-subtract.svg" },
+            "file-zipped-timeout"  :  { "value"  :  "assets/icons/filled/89-zipped/file-zipped-timeout.svg" },
+            "file-zipped-upload"  :  { "value"  :  "assets/icons/filled/89-zipped/file-zipped-upload.svg" },
+            "file-zipped-warning"  :  { "value"  :  "assets/icons/filled/89-zipped/file-zipped-warning.svg" },
+            "file-zipped"  :  { "value"  :  "assets/icons/filled/89-zipped/file-zipped.svg" }
+          }
+      }
+   }
+}

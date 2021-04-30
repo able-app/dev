@@ -1,0 +1,40 @@
+{
+  "assets": {
+      "icon": {
+          "line": {
+            "synchronize-1"  :  { "value"  :  "assets/icons/line/25-synchronize/synchronize-1.svg" },
+            "synchronize-2"  :  { "value"  :  "assets/icons/line/25-synchronize/synchronize-2.svg" },
+            "synchronize-3"  :  { "value"  :  "assets/icons/line/25-synchronize/synchronize-3.svg" },
+            "synchronize-4"  :  { "value"  :  "assets/icons/line/25-synchronize/synchronize-4.svg" },
+            "synchronize-5"  :  { "value"  :  "assets/icons/line/25-synchronize/synchronize-5.svg" },
+            "synchronize-6"  :  { "value"  :  "assets/icons/line/25-synchronize/synchronize-6.svg" },
+            "synchronize-7"  :  { "value"  :  "assets/icons/line/25-synchronize/synchronize-7.svg" },
+            "synchronize-8"  :  { "value"  :  "assets/icons/line/25-synchronize/synchronize-8.svg" },
+            "synchronize-9"  :  { "value"  :  "assets/icons/line/25-synchronize/synchronize-9.svg" },
+            "synchronize-lock"  :  { "value"  :  "assets/icons/line/25-synchronize/synchronize-lock.svg" },
+            "synchronize-time"  :  { "value"  :  "assets/icons/line/25-synchronize/synchronize-time.svg" },
+            "synchronize-triangle"  :  { "value"  :  "assets/icons/line/25-synchronize/synchronize-triangle.svg" },
+            "synchronize-view"  :  { "value"  :  "assets/icons/line/25-synchronize/synchronize-view.svg" },
+            "synchronize-warning-1"  :  { "value"  :  "assets/icons/line/25-synchronize/synchronize-warning-1.svg" },
+            "synchronize-warning-2"  :  { "value"  :  "assets/icons/line/25-synchronize/synchronize-warning-2.svg" }
+          },
+          "filled": {
+            "synchronize-1"  :  { "value"  :  "assets/icons/filled/25-synchronize/synchronize-1.svg" },
+            "synchronize-2"  :  { "value"  :  "assets/icons/filled/25-synchronize/synchronize-2.svg" },
+            "synchronize-3"  :  { "value"  :  "assets/icons/filled/25-synchronize/synchronize-3.svg" },
+            "synchronize-4"  :  { "value"  :  "assets/icons/filled/25-synchronize/synchronize-4.svg" },
+            "synchronize-5"  :  { "value"  :  "assets/icons/filled/25-synchronize/synchronize-5.svg" },
+            "synchronize-6"  :  { "value"  :  "assets/icons/filled/25-synchronize/synchronize-6.svg" },
+            "synchronize-7"  :  { "value"  :  "assets/icons/filled/25-synchronize/synchronize-7.svg" },
+            "synchronize-8"  :  { "value"  :  "assets/icons/filled/25-synchronize/synchronize-8.svg" },
+            "synchronize-9"  :  { "value"  :  "assets/icons/filled/25-synchronize/synchronize-9.svg" },
+            "synchronize-lock"  :  { "value"  :  "assets/icons/filled/25-synchronize/synchronize-lock.svg" },
+            "synchronize-time"  :  { "value"  :  "assets/icons/filled/25-synchronize/synchronize-time.svg" },
+            "synchronize-triangle"  :  { "value"  :  "assets/icons/filled/25-synchronize/synchronize-triangle.svg" },
+            "synchronize-view"  :  { "value"  :  "assets/icons/filled/25-synchronize/synchronize-view.svg" },
+            "synchronize-warning-1"  :  { "value"  :  "assets/icons/filled/25-synchronize/synchronize-warning-1.svg" },
+            "synchronize-warning-2"  :  { "value"  :  "assets/icons/filled/25-synchronize/synchronize-warning-2.svg" }
+          }
+      }
+   }
+}

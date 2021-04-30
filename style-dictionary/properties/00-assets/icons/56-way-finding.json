@@ -1,0 +1,56 @@
+{
+  "assets": {
+      "icon": {
+          "line": {
+            "disable-sign"  :  { "value"  :  "assets/icons/line/56-way-finding/disable-sign.svg" },
+            "elevator-1"  :  { "value"  :  "assets/icons/line/56-way-finding/elevator-1.svg" },
+            "elevator-2"  :  { "value"  :  "assets/icons/line/56-way-finding/elevator-2.svg" },
+            "escalator-down"  :  { "value"  :  "assets/icons/line/56-way-finding/escalator-down.svg" },
+            "escalator-up"  :  { "value"  :  "assets/icons/line/56-way-finding/escalator-up.svg" },
+            "garage"  :  { "value"  :  "assets/icons/line/56-way-finding/garage.svg" },
+            "no-food-allow-1"  :  { "value"  :  "assets/icons/line/56-way-finding/no-food-allow-1.svg" },
+            "no-food-allow-2"  :  { "value"  :  "assets/icons/line/56-way-finding/no-food-allow-2.svg" },
+            "no-picture-allow"  :  { "value"  :  "assets/icons/line/56-way-finding/no-picture-allow.svg" },
+            "reception-table-1"  :  { "value"  :  "assets/icons/line/56-way-finding/reception-table-1.svg" },
+            "reception-table-2"  :  { "value"  :  "assets/icons/line/56-way-finding/reception-table-2.svg" },
+            "shower-1"  :  { "value"  :  "assets/icons/line/56-way-finding/shower-1.svg" },
+            "shower-2"  :  { "value"  :  "assets/icons/line/56-way-finding/shower-2.svg" },
+            "sign-toilet-1"  :  { "value"  :  "assets/icons/line/56-way-finding/sign-toilet-1.svg" },
+            "sign-toilet-2"  :  { "value"  :  "assets/icons/line/56-way-finding/sign-toilet-2.svg" },
+            "smoke-free-area"  :  { "value"  :  "assets/icons/line/56-way-finding/smoke-free-area.svg" },
+            "smoking-area"  :  { "value"  :  "assets/icons/line/56-way-finding/smoking-area.svg" },
+            "staircase-down-1"  :  { "value"  :  "assets/icons/line/56-way-finding/staircase-down-1.svg" },
+            "staircase-down-2"  :  { "value"  :  "assets/icons/line/56-way-finding/staircase-down-2.svg" },
+            "staircase-up-1"  :  { "value"  :  "assets/icons/line/56-way-finding/staircase-up-1.svg" },
+            "staircase-up-2"  :  { "value"  :  "assets/icons/line/56-way-finding/staircase-up-2.svg" },
+            "swimming-pool"  :  { "value"  :  "assets/icons/line/56-way-finding/swimming-pool.svg" },
+            "ticket-gate"  :  { "value"  :  "assets/icons/line/56-way-finding/ticket-gate.svg" }
+          },
+          "filled": {
+            "disable-sign"  :  { "value"  :  "assets/icons/filled/56-way-finding/disable-sign.svg" },
+            "elevator-1"  :  { "value"  :  "assets/icons/filled/56-way-finding/elevator-1.svg" },
+            "elevator-2"  :  { "value"  :  "assets/icons/filled/56-way-finding/elevator-2.svg" },
+            "escalator-down"  :  { "value"  :  "assets/icons/filled/56-way-finding/escalator-down.svg" },
+            "escalator-up"  :  { "value"  :  "assets/icons/filled/56-way-finding/escalator-up.svg" },
+            "garage"  :  { "value"  :  "assets/icons/filled/56-way-finding/garage.svg" },
+            "no-food-allow-1"  :  { "value"  :  "assets/icons/filled/56-way-finding/no-food-allow-1.svg" },
+            "no-food-allow-2"  :  { "value"  :  "assets/icons/filled/56-way-finding/no-food-allow-2.svg" },
+            "no-picture-allow"  :  { "value"  :  "assets/icons/filled/56-way-finding/no-picture-allow.svg" },
+            "reception-table-1"  :  { "value"  :  "assets/icons/filled/56-way-finding/reception-table-1.svg" },
+            "reception-table-2"  :  { "value"  :  "assets/icons/filled/56-way-finding/reception-table-2.svg" },
+            "shower-1"  :  { "value"  :  "assets/icons/filled/56-way-finding/shower-1.svg" },
+            "shower-2"  :  { "value"  :  "assets/icons/filled/56-way-finding/shower-2.svg" },
+            "sign-toilet-1"  :  { "value"  :  "assets/icons/filled/56-way-finding/sign-toilet-1.svg" },
+            "sign-toilet-2"  :  { "value"  :  "assets/icons/filled/56-way-finding/sign-toilet-2.svg" },
+            "smoke-free-area"  :  { "value"  :  "assets/icons/filled/56-way-finding/smoke-free-area.svg" },
+            "smoking-area"  :  { "value"  :  "assets/icons/filled/56-way-finding/smoking-area.svg" },
+            "staircase-down-1"  :  { "value"  :  "assets/icons/filled/56-way-finding/staircase-down-1.svg" },
+            "staircase-down-2"  :  { "value"  :  "assets/icons/filled/56-way-finding/staircase-down-2.svg" },
+            "staircase-up-1"  :  { "value"  :  "assets/icons/filled/56-way-finding/staircase-up-1.svg" },
+            "staircase-up-2"  :  { "value"  :  "assets/icons/filled/56-way-finding/staircase-up-2.svg" },
+            "swimming-pool"  :  { "value"  :  "assets/icons/filled/56-way-finding/swimming-pool.svg" },
+            "ticket-gate"  :  { "value"  :  "assets/icons/filled/56-way-finding/ticket-gate.svg" }
+          }
+      }
+   }
+}

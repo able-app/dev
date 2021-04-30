@@ -1,0 +1,21 @@
+{
+  "button": {
+    "primary": {
+      "state": {
+        "active": {
+              "text-color"        : {"value": ""},
+              "icon=color"        : {"value": ""},
+              "color"             : {"value": ""},
+              "border-color"      : {"value": ""},
+              "splash-color"      : {"value": ""},
+              "highlight-color"   : {"value": ""},
+              },
+        "disabled": {
+              "text-color"        : {"value": ""},
+              "icon-color"        : {"value": ""},
+              "color"             : {"value": ""},
+              "border-color"      : {"value": ""},
+        }
+    }
+  }
+}

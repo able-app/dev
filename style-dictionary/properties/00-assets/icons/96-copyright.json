@@ -1,0 +1,26 @@
+{
+  "assets": {
+      "icon": {
+          "line": {
+            "file-copyright"  :  { "value"  :  "assets/icons/line/96-copyright/file-copyright.svg" },
+            "file-creative-commons"  :  { "value"  :  "assets/icons/line/96-copyright/file-creative-commons.svg" },
+            "file-equal"  :  { "value"  :  "assets/icons/line/96-copyright/file-equal.svg" },
+            "file-no-sale"  :  { "value"  :  "assets/icons/line/96-copyright/file-no-sale.svg" },
+            "file-not-copyright"  :  { "value"  :  "assets/icons/line/96-copyright/file-not-copyright.svg" },
+            "file-registered-trademark"  :  { "value"  :  "assets/icons/line/96-copyright/file-registered-trademark.svg" },
+            "file-trademark"  :  { "value"  :  "assets/icons/line/96-copyright/file-trademark.svg" },
+            "file-user"  :  { "value"  :  "assets/icons/line/96-copyright/file-user.svg" }
+          },
+          "filled": {
+            "file-copyright"  :  { "value"  :  "assets/icons/filled/96-copyright/file-copyright.svg" },
+            "file-creative-commons"  :  { "value"  :  "assets/icons/filled/96-copyright/file-creative-commons.svg" },
+            "file-equal"  :  { "value"  :  "assets/icons/filled/96-copyright/file-equal.svg" },
+            "file-no-sale"  :  { "value"  :  "assets/icons/filled/96-copyright/file-no-sale.svg" },
+            "file-not-copyright"  :  { "value"  :  "assets/icons/filled/96-copyright/file-not-copyright.svg" },
+            "file-registered-trademark"  :  { "value"  :  "assets/icons/filled/96-copyright/file-registered-trademark.svg" },
+            "file-trademark"  :  { "value"  :  "assets/icons/filled/96-copyright/file-trademark.svg" },
+            "file-user"  :  { "value"  :  "assets/icons/filled/96-copyright/file-user.svg" }
+          }
+      }
+   }
+}

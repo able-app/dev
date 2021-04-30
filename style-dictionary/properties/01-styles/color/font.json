@@ -1,0 +1,26 @@
+{
+  "color": {
+    "font": {
+      "neutral": {
+        "darkest":    { "value": "{color.neutral.black.value}" },
+        "darker":     { "value": "{color.neutral.700.value}" },
+        "medium":     { "value": "{color.neutral.500.value}" },
+        "lighter":    { "value": "{color.neutral.300.value}" },
+        "lightest":   { "value": "{color.neutral.200.value}" }
+      },
+      "theme": {
+        "primary":    { "value": "{color.theme.primary.value}" }
+      },
+      "feedback": {
+        "info":     { "value": "{color.theme.feedback.info.value}" },
+        "success":  { "value": "{color.theme.feedback.success.value}" },
+        "warn":     { "value": "{color.theme.feedback.warn.value}" },
+        "error":    { "value": "{color.theme.feedback.error.value}" }
+      },
+      "button": {
+        "primary":   { "value":"{color.font.theme.primary.value}" },
+        "secondary": { "value":"{color.font.neutral.lighter.value}" }
+      }
+    }
+  }
+}

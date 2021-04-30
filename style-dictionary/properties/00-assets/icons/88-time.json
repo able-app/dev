@@ -1,0 +1,58 @@
+{
+  "assets": {
+      "icon": {
+          "line": {
+            "file-time-add"  :  { "value"  :  "assets/icons/line/88-time/file-time-add.svg" },
+            "file-time-block"  :  { "value"  :  "assets/icons/line/88-time/file-time-block.svg" },
+            "file-time-cash"  :  { "value"  :  "assets/icons/line/88-time/file-time-cash.svg" },
+            "file-time-check"  :  { "value"  :  "assets/icons/line/88-time/file-time-check.svg" },
+            "file-time-delete"  :  { "value"  :  "assets/icons/line/88-time/file-time-delete.svg" },
+            "file-time-download"  :  { "value"  :  "assets/icons/line/88-time/file-time-download.svg" },
+            "file-time-edit"  :  { "value"  :  "assets/icons/line/88-time/file-time-edit.svg" },
+            "file-time-favorite-heart"  :  { "value"  :  "assets/icons/line/88-time/file-time-favorite-heart.svg" },
+            "file-time-favorite"  :  { "value"  :  "assets/icons/line/88-time/file-time-favorite.svg" },
+            "file-time-home"  :  { "value"  :  "assets/icons/line/88-time/file-time-home.svg" },
+            "file-time-lock"  :  { "value"  :  "assets/icons/line/88-time/file-time-lock.svg" },
+            "file-time-question"  :  { "value"  :  "assets/icons/line/88-time/file-time-question.svg" },
+            "file-time-refresh"  :  { "value"  :  "assets/icons/line/88-time/file-time-refresh.svg" },
+            "file-time-search"  :  { "value"  :  "assets/icons/line/88-time/file-time-search.svg" },
+            "file-time-secure"  :  { "value"  :  "assets/icons/line/88-time/file-time-secure.svg" },
+            "file-time-setting"  :  { "value"  :  "assets/icons/line/88-time/file-time-setting.svg" },
+            "file-time-share"  :  { "value"  :  "assets/icons/line/88-time/file-time-share.svg" },
+            "file-time-subtract"  :  { "value"  :  "assets/icons/line/88-time/file-time-subtract.svg" },
+            "file-time-sync"  :  { "value"  :  "assets/icons/line/88-time/file-time-sync.svg" },
+            "file-time-timeout"  :  { "value"  :  "assets/icons/line/88-time/file-time-timeout.svg" },
+            "file-time-upload"  :  { "value"  :  "assets/icons/line/88-time/file-time-upload.svg" },
+            "file-time-warning"  :  { "value"  :  "assets/icons/line/88-time/file-time-warning.svg" },
+            "file-time"  :  { "value"  :  "assets/icons/line/88-time/file-time.svg" },
+            "file-timeout"  :  { "value"  :  "assets/icons/line/88-time/file-timeout.svg" }
+          },
+          "filled": {
+            "file-time-add"  :  { "value"  :  "assets/icons/filled/88-time/file-time-add.svg" },
+            "file-time-block"  :  { "value"  :  "assets/icons/filled/88-time/file-time-block.svg" },
+            "file-time-cash"  :  { "value"  :  "assets/icons/filled/88-time/file-time-cash.svg" },
+            "file-time-check"  :  { "value"  :  "assets/icons/filled/88-time/file-time-check.svg" },
+            "file-time-delete"  :  { "value"  :  "assets/icons/filled/88-time/file-time-delete.svg" },
+            "file-time-download"  :  { "value"  :  "assets/icons/filled/88-time/file-time-download.svg" },
+            "file-time-edit"  :  { "value"  :  "assets/icons/filled/88-time/file-time-edit.svg" },
+            "file-time-favorite-heart"  :  { "value"  :  "assets/icons/filled/88-time/file-time-favorite-heart.svg" },
+            "file-time-favorite"  :  { "value"  :  "assets/icons/filled/88-time/file-time-favorite.svg" },
+            "file-time-home"  :  { "value"  :  "assets/icons/filled/88-time/file-time-home.svg" },
+            "file-time-lock"  :  { "value"  :  "assets/icons/filled/88-time/file-time-lock.svg" },
+            "file-time-question"  :  { "value"  :  "assets/icons/filled/88-time/file-time-question.svg" },
+            "file-time-refresh"  :  { "value"  :  "assets/icons/filled/88-time/file-time-refresh.svg" },
+            "file-time-search"  :  { "value"  :  "assets/icons/filled/88-time/file-time-search.svg" },
+            "file-time-secure"  :  { "value"  :  "assets/icons/filled/88-time/file-time-secure.svg" },
+            "file-time-setting"  :  { "value"  :  "assets/icons/filled/88-time/file-time-setting.svg" },
+            "file-time-share"  :  { "value"  :  "assets/icons/filled/88-time/file-time-share.svg" },
+            "file-time-subtract"  :  { "value"  :  "assets/icons/filled/88-time/file-time-subtract.svg" },
+            "file-time-sync"  :  { "value"  :  "assets/icons/filled/88-time/file-time-sync.svg" },
+            "file-time-timeout"  :  { "value"  :  "assets/icons/filled/88-time/file-time-timeout.svg" },
+            "file-time-upload"  :  { "value"  :  "assets/icons/filled/88-time/file-time-upload.svg" },
+            "file-time-warning"  :  { "value"  :  "assets/icons/filled/88-time/file-time-warning.svg" },
+            "file-time"  :  { "value"  :  "assets/icons/filled/88-time/file-time.svg" },
+            "file-timeout"  :  { "value"  :  "assets/icons/filled/88-time/file-timeout.svg" }
+          }
+      }
+   }
+}

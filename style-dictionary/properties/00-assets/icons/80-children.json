@@ -1,0 +1,36 @@
+{
+  "assets": {
+      "icon": {
+          "line": {
+            "baby-apron"  :  { "value"  :  "assets/icons/line/80-children/baby-apron.svg" },
+            "baby-bed"  :  { "value"  :  "assets/icons/line/80-children/baby-bed.svg" },
+            "baby-hanging-toy"  :  { "value"  :  "assets/icons/line/80-children/baby-hanging-toy.svg" },
+            "baby-milk-bottle"  :  { "value"  :  "assets/icons/line/80-children/baby-milk-bottle.svg" },
+            "baby-pacifier"  :  { "value"  :  "assets/icons/line/80-children/baby-pacifier.svg" },
+            "baby-stacker"  :  { "value"  :  "assets/icons/line/80-children/baby-stacker.svg" },
+            "baby-stroller"  :  { "value"  :  "assets/icons/line/80-children/baby-stroller.svg" },
+            "baby"  :  { "value"  :  "assets/icons/line/80-children/baby.svg" },
+            "letter-blocks"  :  { "value"  :  "assets/icons/line/80-children/letter-blocks.svg" },
+            "remote-car"  :  { "value"  :  "assets/icons/line/80-children/remote-car.svg" },
+            "rocking-horse"  :  { "value"  :  "assets/icons/line/80-children/rocking-horse.svg" },
+            "slider"  :  { "value"  :  "assets/icons/line/80-children/slider.svg" },
+            "teddy-bear"  :  { "value"  :  "assets/icons/line/80-children/teddy-bear.svg" }
+          },
+          "filled": {
+            "baby-apron"  :  { "value"  :  "assets/icons/filled/80-children/baby-apron.svg" },
+            "baby-bed"  :  { "value"  :  "assets/icons/filled/80-children/baby-bed.svg" },
+            "baby-hanging-toy"  :  { "value"  :  "assets/icons/filled/80-children/baby-hanging-toy.svg" },
+            "baby-milk-bottle"  :  { "value"  :  "assets/icons/filled/80-children/baby-milk-bottle.svg" },
+            "baby-pacifier"  :  { "value"  :  "assets/icons/filled/80-children/baby-pacifier.svg" },
+            "baby-stacker"  :  { "value"  :  "assets/icons/filled/80-children/baby-stacker.svg" },
+            "baby-stroller"  :  { "value"  :  "assets/icons/filled/80-children/baby-stroller.svg" },
+            "baby"  :  { "value"  :  "assets/icons/filled/80-children/baby.svg" },
+            "letter-blocks"  :  { "value"  :  "assets/icons/filled/80-children/letter-blocks.svg" },
+            "remote-car"  :  { "value"  :  "assets/icons/filled/80-children/remote-car.svg" },
+            "rocking-horse"  :  { "value"  :  "assets/icons/filled/80-children/rocking-horse.svg" },
+            "slider"  :  { "value"  :  "assets/icons/filled/80-children/slider.svg" },
+            "teddy-bear"  :  { "value"  :  "assets/icons/filled/80-children/teddy-bear.svg" }
+          }
+      }
+   }
+}

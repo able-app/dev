@@ -1,0 +1,54 @@
+{
+  "assets": {
+      "icon": {
+          "line": {
+            "backhoe-loader"  :  { "value"  :  "assets/icons/line/62-construction/backhoe-loader.svg" },
+            "bulldozer-1"  :  { "value"  :  "assets/icons/line/62-construction/bulldozer-1.svg" },
+            "bulldozer-2"  :  { "value"  :  "assets/icons/line/62-construction/bulldozer-2.svg" },
+            "cement-mixer"  :  { "value"  :  "assets/icons/line/62-construction/cement-mixer.svg" },
+            "cement-trowel"  :  { "value"  :  "assets/icons/line/62-construction/cement-trowel.svg" },
+            "construction-blueprint-1"  :  { "value"  :  "assets/icons/line/62-construction/construction-blueprint-1.svg" },
+            "construction-blueprint-2"  :  { "value"  :  "assets/icons/line/62-construction/construction-blueprint-2.svg" },
+            "construction-blueprint"  :  { "value"  :  "assets/icons/line/62-construction/construction-blueprint.svg" },
+            "construction-crane"  :  { "value"  :  "assets/icons/line/62-construction/construction-crane.svg" },
+            "construction-hook"  :  { "value"  :  "assets/icons/line/62-construction/construction-hook.svg" },
+            "construction-shovel"  :  { "value"  :  "assets/icons/line/62-construction/construction-shovel.svg" },
+            "construction-wall-1"  :  { "value"  :  "assets/icons/line/62-construction/construction-wall-1.svg" },
+            "construction-wall-2"  :  { "value"  :  "assets/icons/line/62-construction/construction-wall-2.svg" },
+            "helmet-construction"  :  { "value"  :  "assets/icons/line/62-construction/helmet-construction.svg" },
+            "lifting-crane"  :  { "value"  :  "assets/icons/line/62-construction/lifting-crane.svg" },
+            "rock-drill"  :  { "value"  :  "assets/icons/line/62-construction/rock-drill.svg" },
+            "truck-cement-mixer"  :  { "value"  :  "assets/icons/line/62-construction/truck-cement-mixer.svg" },
+            "truck-dump"  :  { "value"  :  "assets/icons/line/62-construction/truck-dump.svg" },
+            "truck"  :  { "value"  :  "assets/icons/line/62-construction/truck.svg" },
+            "wheelbarrow"  :  { "value"  :  "assets/icons/line/62-construction/wheelbarrow.svg" },
+            "wood-saw"  :  { "value"  :  "assets/icons/line/62-construction/wood-saw.svg" },
+            "wrecking-ball-crane"  :  { "value"  :  "assets/icons/line/62-construction/wrecking-ball-crane.svg" }
+          },
+          "filled": {
+            "backhoe-loader"  :  { "value"  :  "assets/icons/filled/62-construction/backhoe-loader.svg" },
+            "bulldozer-1"  :  { "value"  :  "assets/icons/filled/62-construction/bulldozer-1.svg" },
+            "bulldozer-2"  :  { "value"  :  "assets/icons/filled/62-construction/bulldozer-2.svg" },
+            "cement-mixer"  :  { "value"  :  "assets/icons/filled/62-construction/cement-mixer.svg" },
+            "cement-trowel"  :  { "value"  :  "assets/icons/filled/62-construction/cement-trowel.svg" },
+            "construction-blueprint-1"  :  { "value"  :  "assets/icons/filled/62-construction/construction-blueprint-1.svg" },
+            "construction-blueprint-2"  :  { "value"  :  "assets/icons/filled/62-construction/construction-blueprint-2.svg" },
+            "construction-blueprint"  :  { "value"  :  "assets/icons/filled/62-construction/construction-blueprint.svg" },
+            "construction-crane"  :  { "value"  :  "assets/icons/filled/62-construction/construction-crane.svg" },
+            "construction-hook"  :  { "value"  :  "assets/icons/filled/62-construction/construction-hook.svg" },
+            "construction-shovel"  :  { "value"  :  "assets/icons/filled/62-construction/construction-shovel.svg" },
+            "construction-wall-1"  :  { "value"  :  "assets/icons/filled/62-construction/construction-wall-1.svg" },
+            "construction-wall-2"  :  { "value"  :  "assets/icons/filled/62-construction/construction-wall-2.svg" },
+            "helmet-construction"  :  { "value"  :  "assets/icons/filled/62-construction/helmet-construction.svg" },
+            "lifting-crane"  :  { "value"  :  "assets/icons/filled/62-construction/lifting-crane.svg" },
+            "rock-drill"  :  { "value"  :  "assets/icons/filled/62-construction/rock-drill.svg" },
+            "truck-cement-mixer"  :  { "value"  :  "assets/icons/filled/62-construction/truck-cement-mixer.svg" },
+            "truck-dump"  :  { "value"  :  "assets/icons/filled/62-construction/truck-dump.svg" },
+            "truck"  :  { "value"  :  "assets/icons/filled/62-construction/truck.svg" },
+            "wheelbarrow"  :  { "value"  :  "assets/icons/filled/62-construction/wheelbarrow.svg" },
+            "wood-saw"  :  { "value"  :  "assets/icons/filled/62-construction/wood-saw.svg" },
+            "wrecking-ball-crane"  :  { "value"  :  "assets/icons/filled/62-construction/wrecking-ball-crane.svg" }
+          }
+      }
+   }
+}

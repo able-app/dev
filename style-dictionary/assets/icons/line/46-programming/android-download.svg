@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="24px"
+	 height="24px" viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve">
+<g id="Outline_Icons">
+	<g>
+		<path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M2.5,19.5
+			c0,0,0-7,0-8s0.5-2,1.5-2s1.5,0,1.5,0"/>
+		<path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M21.5,19.5
+			c0,0,0-7,0-8s-0.5-2-1.5-2s-1.5,0-1.5,0"/>
+		<g>
+			<polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+				11.5,14.5 11.5,23.5 14,21 			"/>
+			
+				<line fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="11.5" y1="23.5" x2="9" y2="21"/>
+		</g>
+		
+			<line fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="10.912" y1="2.5" x2="9.037" y2="0.5"/>
+		
+			<line fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="13.1" y1="2.5" x2="14.975" y2="0.5"/>
+		<path fill="none" stroke="#000000" stroke-linejoin="round" stroke-miterlimit="10" d="M18.5,7.5c-0.713-2.999-3.35-5-6.494-5
+			c-3.161,0-5.81,2.001-6.506,5H18.5z"/>
+		<g>
+			<line fill="none" stroke="#000000" stroke-linejoin="round" stroke-miterlimit="10" x1="10.506" y1="5" x2="10.506" y2="6"/>
+			<line fill="none" stroke="#000000" stroke-linejoin="round" stroke-miterlimit="10" x1="13.506" y1="5" x2="13.506" y2="6"/>
+		</g>
+		<polyline fill="none" stroke="#000000" stroke-linejoin="round" stroke-miterlimit="10" points="14.5,19.5 18.5,19.5 18.5,9.5 
+			5.5,9.5 5.5,19.5 9.5,19.5 		"/>
+	</g>
+</g>
+<g id="Invisible_Shape">
+	<rect fill="none" width="24" height="24"/>
+</g>
+</svg>

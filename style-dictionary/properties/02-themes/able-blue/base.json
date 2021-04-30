@@ -1,0 +1,32 @@
+{
+  "theme": {
+    "able-blue": {
+      "light": {
+          "primary"   : { "value": "#1975f0" },
+          "secondary" : { "value": "#0447a3" },
+          "tertiary"  : { "value": "#ffcb05" },
+          "accent"    : { "value": "#ff6505" },
+          "accent2"   : { "value": "#ff6505" },
+          "feedback"  : {
+                "info"    : {"value": "#007cb0"},
+                "success" : {"value": "#00b400"},
+                "warn"    : {"value": "#ff8000"},
+                "error"   : {"value": "#ed1c24"}
+          }
+        },
+        "dark": {
+          "primary"   : { "value": "#" },
+          "secondary" : { "value": "#" },
+          "tertiary"  : { "value": "#" },
+          "accent"    : { "value": "#" },
+          "accent2"   : { "value": "#" },
+          "feedback"  : {
+                "info"    : {"value": "#007cb0"},
+                "success" : {"value": "#00b400"},
+                "warn"    : {"value": "#ff8000"},
+                "error"   : {"value": "#ed1c24"}
+        }
+      }
+    }
+  }
+}

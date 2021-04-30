@@ -1,0 +1,40 @@
+{
+  "assets": {
+      "icon": {
+          "line": {
+            "adhesive-tape"  :  { "value"  :  "assets/icons/line/34-office/adhesive-tape.svg" },
+            "book-shelf"  :  { "value"  :  "assets/icons/line/34-office/book-shelf.svg" },
+            "check-list"  :  { "value"  :  "assets/icons/line/34-office/check-list.svg" },
+            "document-shredder"  :  { "value"  :  "assets/icons/line/34-office/document-shredder.svg" },
+            "glue"  :  { "value"  :  "assets/icons/line/34-office/glue.svg" },
+            "hole-puncher"  :  { "value"  :  "assets/icons/line/34-office/hole-puncher.svg" },
+            "paper-binder"  :  { "value"  :  "assets/icons/line/34-office/paper-binder.svg" },
+            "paper-cutter"  :  { "value"  :  "assets/icons/line/34-office/paper-cutter.svg" },
+            "paper-pin"  :  { "value"  :  "assets/icons/line/34-office/paper-pin.svg" },
+            "photocopy-machine"  :  { "value"  :  "assets/icons/line/34-office/photocopy-machine.svg" },
+            "podium"  :  { "value"  :  "assets/icons/line/34-office/podium.svg" },
+            "projector-front"  :  { "value"  :  "assets/icons/line/34-office/projector-front.svg" },
+            "projector"  :  { "value"  :  "assets/icons/line/34-office/projector.svg" },
+            "stapler"  :  { "value"  :  "assets/icons/line/34-office/stapler.svg" },
+            "sticky-note"  :  { "value"  :  "assets/icons/line/34-office/sticky-note.svg" }
+          },
+          "filled": {
+            "adhesive-tape"  :  { "value"  :  "assets/icons/filled/34-office/adhesive-tape.svg" },
+            "book-shelf"  :  { "value"  :  "assets/icons/filled/34-office/book-shelf.svg" },
+            "check-list"  :  { "value"  :  "assets/icons/filled/34-office/check-list.svg" },
+            "document-shredder"  :  { "value"  :  "assets/icons/filled/34-office/document-shredder.svg" },
+            "glue"  :  { "value"  :  "assets/icons/filled/34-office/glue.svg" },
+            "hole-puncher"  :  { "value"  :  "assets/icons/filled/34-office/hole-puncher.svg" },
+            "paper-binder"  :  { "value"  :  "assets/icons/filled/34-office/paper-binder.svg" },
+            "paper-cutter"  :  { "value"  :  "assets/icons/filled/34-office/paper-cutter.svg" },
+            "paper-pin"  :  { "value"  :  "assets/icons/filled/34-office/paper-pin.svg" },
+            "photocopy-machine"  :  { "value"  :  "assets/icons/filled/34-office/photocopy-machine.svg" },
+            "podium"  :  { "value"  :  "assets/icons/filled/34-office/podium.svg" },
+            "projector-front"  :  { "value"  :  "assets/icons/filled/34-office/projector-front.svg" },
+            "projector"  :  { "value"  :  "assets/icons/filled/34-office/projector.svg" },
+            "stapler"  :  { "value"  :  "assets/icons/filled/34-office/stapler.svg" },
+            "sticky-note"  :  { "value"  :  "assets/icons/filled/34-office/sticky-note.svg" }
+          }
+      }
+   }
+}

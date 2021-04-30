@@ -1,0 +1,42 @@
+{
+  "assets": {
+      "icon": {
+          "line": {
+            "help-circle"  :  { "value"  :  "assets/icons/line/22-interface-feedback/help-circle.svg" },
+            "infomation-circle"  :  { "value"  :  "assets/icons/line/22-interface-feedback/infomation-circle.svg" },
+            "loading-1"  :  { "value"  :  "assets/icons/line/22-interface-feedback/loading-1.svg" },
+            "loading-2"  :  { "value"  :  "assets/icons/line/22-interface-feedback/loading-2.svg" },
+            "loading-3"  :  { "value"  :  "assets/icons/line/22-interface-feedback/loading-3.svg" },
+            "loading-4"  :  { "value"  :  "assets/icons/line/22-interface-feedback/loading-4.svg" },
+            "radioactive-1"  :  { "value"  :  "assets/icons/line/22-interface-feedback/radioactive-1.svg" },
+            "radioactive-2"  :  { "value"  :  "assets/icons/line/22-interface-feedback/radioactive-2.svg" },
+            "report-problem-circle"  :  { "value"  :  "assets/icons/line/22-interface-feedback/report-problem-circle.svg" },
+            "report-problem-diamond"  :  { "value"  :  "assets/icons/line/22-interface-feedback/report-problem-diamond.svg" },
+            "report-problem-triangle"  :  { "value"  :  "assets/icons/line/22-interface-feedback/report-problem-triangle.svg" },
+            "sign-stop"  :  { "value"  :  "assets/icons/line/22-interface-feedback/sign-stop.svg" },
+            "trending-down"  :  { "value"  :  "assets/icons/line/22-interface-feedback/trending-down.svg" },
+            "trending-up"  :  { "value"  :  "assets/icons/line/22-interface-feedback/trending-up.svg" },
+            "window-loading"  :  { "value"  :  "assets/icons/line/22-interface-feedback/window-loading.svg" },
+            "window-speedtest"  :  { "value"  :  "assets/icons/line/22-interface-feedback/window-speedtest.svg" }
+          },
+          "filled": {
+            "help-circle"  :  { "value"  :  "assets/icons/filled/22-interface-feedback/help-circle.svg" },
+            "infomation-circle"  :  { "value"  :  "assets/icons/filled/22-interface-feedback/infomation-circle.svg" },
+            "loading-1"  :  { "value"  :  "assets/icons/filled/22-interface-feedback/loading-1.svg" },
+            "loading-2"  :  { "value"  :  "assets/icons/filled/22-interface-feedback/loading-2.svg" },
+            "loading-3"  :  { "value"  :  "assets/icons/filled/22-interface-feedback/loading-3.svg" },
+            "loading-4"  :  { "value"  :  "assets/icons/filled/22-interface-feedback/loading-4.svg" },
+            "radioactive-1"  :  { "value"  :  "assets/icons/filled/22-interface-feedback/radioactive-1.svg" },
+            "radioactive-2"  :  { "value"  :  "assets/icons/filled/22-interface-feedback/radioactive-2.svg" },
+            "report-problem-circle"  :  { "value"  :  "assets/icons/filled/22-interface-feedback/report-problem-circle.svg" },
+            "report-problem-diamond"  :  { "value"  :  "assets/icons/filled/22-interface-feedback/report-problem-diamond.svg" },
+            "report-problem-triangle"  :  { "value"  :  "assets/icons/filled/22-interface-feedback/report-problem-triangle.svg" },
+            "sign-stop"  :  { "value"  :  "assets/icons/filled/22-interface-feedback/sign-stop.svg" },
+            "trending-down"  :  { "value"  :  "assets/icons/filled/22-interface-feedback/trending-down.svg" },
+            "trending-up"  :  { "value"  :  "assets/icons/filled/22-interface-feedback/trending-up.svg" },
+            "window-loading"  :  { "value"  :  "assets/icons/filled/22-interface-feedback/window-loading.svg" },
+            "window-speedtest"  :  { "value"  :  "assets/icons/filled/22-interface-feedback/window-speedtest.svg" }
+          }
+      }
+   }
+}

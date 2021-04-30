@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="24px"
+	 height="24px" viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve">
+<g id="Outline_Icons">
+	<g>
+		<polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="7.5,4.5 
+			5.5,4.501 5.5,11.001 6.5,15.032 4.5,21.501 10.031,21.501 11.5,17.001 13.062,21.501 18.5,21.501 16.5,15.063 17.5,11.001 
+			17.5,4.501 15.5,4.5 		"/>
+		<path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M11.5,12.001
+			c-1.938-2.824-4-7.5-4-7.5l1.063-1h5.833l1.088,1C15.484,4.501,13.332,8.796,11.5,12.001z"/>
+		<g>
+			<path d="M14.5,16.001c-0.275,0-0.5,0.224-0.5,0.5s0.225,0.5,0.5,0.5s0.5-0.224,0.5-0.5S14.775,16.001,14.5,16.001L14.5,16.001z"
+				/>
+		</g>
+		<g>
+			<path d="M14.5,18.001c-0.275,0-0.5,0.224-0.5,0.5s0.225,0.5,0.5,0.5s0.5-0.224,0.5-0.5S14.775,18.001,14.5,18.001L14.5,18.001z"
+				/>
+		</g>
+		<g>
+			<path d="M8.5,16.001c-0.275,0-0.5,0.224-0.5,0.5s0.225,0.5,0.5,0.5s0.5-0.224,0.5-0.5S8.775,16.001,8.5,16.001L8.5,16.001z"/>
+		</g>
+		<g>
+			<path d="M8.5,18.001c-0.275,0-0.5,0.224-0.5,0.5s0.225,0.5,0.5,0.5s0.5-0.224,0.5-0.5S8.775,18.001,8.5,18.001L8.5,18.001z"/>
+		</g>
+		
+			<line fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="11.5" y1="17.001" x2="11.5" y2="12.001"/>
+		<polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+			17.5,9.579 19.584,11.584 22.459,8.501 17.5,4.501 		"/>
+		<polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+			5.5,9.579 3.391,11.584 0.516,8.501 5.5,4.501 		"/>
+	</g>
+</g>
+<g id="invisible_shape">
+	<rect fill="none" width="24" height="24"/>
+</g>
+</svg>

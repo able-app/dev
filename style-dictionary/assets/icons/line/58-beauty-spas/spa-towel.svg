@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="24px"
+	 height="24px" viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve">
+<g id="Outline_Icons">
+	<g>
+		<path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M17,18.5H5
+			c-0.828,0-1.5,0.672-1.5,1.5s0.672,1.5,1.5,1.5h12c1.381,0,2.5-1.119,2.5-2.5s-1.119-2.5-2.5-2.5H4c-1.933,0-3.5,1.566-3.5,3.5
+			s1.567,3.5,3.5,3.5h16c1.934,0,3.5-1.566,3.5-3.5s-1.566-3.5-3.5-3.5h-3"/>
+		<path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M23.5,20
+			L21.021,3.892C20.722,1.94,19.043,0.5,17.068,0.5H6.932c-1.975,0-3.653,1.44-3.953,3.392L0.5,20"/>
+		<g>
+			
+				<line fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="8.516" y1="2.484" x2="8.531" y2="5.031"/>
+			<polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+				10.99,4.51 8.531,5.031 7.041,7.459 			"/>
+			<polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+				10.053,7.443 8.531,5.031 6.041,4.51 			"/>
+		</g>
+		<g>
+			
+				<line fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="16.526" y1="10.332" x2="16.536" y2="12.045"/>
+			<polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+				18.189,11.695 16.536,12.045 15.534,13.678 			"/>
+			<polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+				17.56,13.668 16.536,12.045 14.862,11.695 			"/>
+		</g>
+		<g>
+			
+				<line fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="16.521" y1="2.318" x2="16.531" y2="4.031"/>
+			<polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+				18.185,3.681 16.531,4.031 15.529,5.664 			"/>
+			<polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+				17.555,5.654 16.531,4.031 14.856,3.681 			"/>
+		</g>
+	</g>
+</g>
+<g id="invisible_shape">
+	<rect fill="none" width="24" height="24"/>
+</g>
+</svg>

@@ -1,0 +1,60 @@
+{
+  "assets": {
+      "icon": {
+          "line": {
+            "notepad-1"  :  { "value"  :  "assets/icons/line/87-notes/notepad-1.svg" },
+            "notepad-2"  :  { "value"  :  "assets/icons/line/87-notes/notepad-2.svg" },
+            "notepad-add"  :  { "value"  :  "assets/icons/line/87-notes/notepad-add.svg" },
+            "notepad-block"  :  { "value"  :  "assets/icons/line/87-notes/notepad-block.svg" },
+            "notepad-cash"  :  { "value"  :  "assets/icons/line/87-notes/notepad-cash.svg" },
+            "notepad-check"  :  { "value"  :  "assets/icons/line/87-notes/notepad-check.svg" },
+            "notepad-delete"  :  { "value"  :  "assets/icons/line/87-notes/notepad-delete.svg" },
+            "notepad-download"  :  { "value"  :  "assets/icons/line/87-notes/notepad-download.svg" },
+            "notepad-edit"  :  { "value"  :  "assets/icons/line/87-notes/notepad-edit.svg" },
+            "notepad-favorite-heart"  :  { "value"  :  "assets/icons/line/87-notes/notepad-favorite-heart.svg" },
+            "notepad-favorite-star"  :  { "value"  :  "assets/icons/line/87-notes/notepad-favorite-star.svg" },
+            "notepad-hand"  :  { "value"  :  "assets/icons/line/87-notes/notepad-hand.svg" },
+            "notepad-home"  :  { "value"  :  "assets/icons/line/87-notes/notepad-home.svg" },
+            "notepad-lock"  :  { "value"  :  "assets/icons/line/87-notes/notepad-lock.svg" },
+            "notepad-module"  :  { "value"  :  "assets/icons/line/87-notes/notepad-module.svg" },
+            "notepad-question"  :  { "value"  :  "assets/icons/line/87-notes/notepad-question.svg" },
+            "notepad-quill"  :  { "value"  :  "assets/icons/line/87-notes/notepad-quill.svg" },
+            "notepad-refresh"  :  { "value"  :  "assets/icons/line/87-notes/notepad-refresh.svg" },
+            "notepad-search"  :  { "value"  :  "assets/icons/line/87-notes/notepad-search.svg" },
+            "notepad-setting"  :  { "value"  :  "assets/icons/line/87-notes/notepad-setting.svg" },
+            "notepad-share"  :  { "value"  :  "assets/icons/line/87-notes/notepad-share.svg" },
+            "notepad-subtract"  :  { "value"  :  "assets/icons/line/87-notes/notepad-subtract.svg" },
+            "notepad-timeout"  :  { "value"  :  "assets/icons/line/87-notes/notepad-timeout.svg" },
+            "notepad-upload"  :  { "value"  :  "assets/icons/line/87-notes/notepad-upload.svg" },
+            "notepad-warning"  :  { "value"  :  "assets/icons/line/87-notes/notepad-warning.svg" }
+          },
+          "filled": {
+            "notepad-1"  :  { "value"  :  "assets/icons/filled/87-notes/notepad-1.svg" },
+            "notepad-2"  :  { "value"  :  "assets/icons/filled/87-notes/notepad-2.svg" },
+            "notepad-add"  :  { "value"  :  "assets/icons/filled/87-notes/notepad-add.svg" },
+            "notepad-block"  :  { "value"  :  "assets/icons/filled/87-notes/notepad-block.svg" },
+            "notepad-cash"  :  { "value"  :  "assets/icons/filled/87-notes/notepad-cash.svg" },
+            "notepad-check"  :  { "value"  :  "assets/icons/filled/87-notes/notepad-check.svg" },
+            "notepad-delete"  :  { "value"  :  "assets/icons/filled/87-notes/notepad-delete.svg" },
+            "notepad-download"  :  { "value"  :  "assets/icons/filled/87-notes/notepad-download.svg" },
+            "notepad-edit"  :  { "value"  :  "assets/icons/filled/87-notes/notepad-edit.svg" },
+            "notepad-favorite-heart"  :  { "value"  :  "assets/icons/filled/87-notes/notepad-favorite-heart.svg" },
+            "notepad-favorite-star"  :  { "value"  :  "assets/icons/filled/87-notes/notepad-favorite-star.svg" },
+            "notepad-hand"  :  { "value"  :  "assets/icons/filled/87-notes/notepad-hand.svg" },
+            "notepad-home"  :  { "value"  :  "assets/icons/filled/87-notes/notepad-home.svg" },
+            "notepad-lock"  :  { "value"  :  "assets/icons/filled/87-notes/notepad-lock.svg" },
+            "notepad-module"  :  { "value"  :  "assets/icons/filled/87-notes/notepad-module.svg" },
+            "notepad-question"  :  { "value"  :  "assets/icons/filled/87-notes/notepad-question.svg" },
+            "notepad-quill"  :  { "value"  :  "assets/icons/filled/87-notes/notepad-quill.svg" },
+            "notepad-refresh"  :  { "value"  :  "assets/icons/filled/87-notes/notepad-refresh.svg" },
+            "notepad-search"  :  { "value"  :  "assets/icons/filled/87-notes/notepad-search.svg" },
+            "notepad-setting"  :  { "value"  :  "assets/icons/filled/87-notes/notepad-setting.svg" },
+            "notepad-share"  :  { "value"  :  "assets/icons/filled/87-notes/notepad-share.svg" },
+            "notepad-subtract"  :  { "value"  :  "assets/icons/filled/87-notes/notepad-subtract.svg" },
+            "notepad-timeout"  :  { "value"  :  "assets/icons/filled/87-notes/notepad-timeout.svg" },
+            "notepad-upload"  :  { "value"  :  "assets/icons/filled/87-notes/notepad-upload.svg" },
+            "notepad-warning"  :  { "value"  :  "assets/icons/filled/87-notes/notepad-warning.svg" }
+          }
+      }
+   }
+}

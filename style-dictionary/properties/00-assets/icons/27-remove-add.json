@@ -1,0 +1,48 @@
+{
+  "assets": {
+      "icon": {
+          "line": {
+            "add-1"  :  { "value"  :  "assets/icons/line/27-remove-add/add-1.svg" },
+            "add-2"  :  { "value"  :  "assets/icons/line/27-remove-add/add-2.svg" },
+            "add-box"  :  { "value"  :  "assets/icons/line/27-remove-add/add-box.svg" },
+            "add-circle-1"  :  { "value"  :  "assets/icons/line/27-remove-add/add-circle-1.svg" },
+            "add-circle-2"  :  { "value"  :  "assets/icons/line/27-remove-add/add-circle-2.svg" },
+            "add-circle-double"  :  { "value"  :  "assets/icons/line/27-remove-add/add-circle-double.svg" },
+            "add-tab"  :  { "value"  :  "assets/icons/line/27-remove-add/add-tab.svg" },
+            "remove-1"  :  { "value"  :  "assets/icons/line/27-remove-add/remove-1.svg" },
+            "remove-2"  :  { "value"  :  "assets/icons/line/27-remove-add/remove-2.svg" },
+            "remove-box"  :  { "value"  :  "assets/icons/line/27-remove-add/remove-box.svg" },
+            "remove-circle-1"  :  { "value"  :  "assets/icons/line/27-remove-add/remove-circle-1.svg" },
+            "remove-circle-2"  :  { "value"  :  "assets/icons/line/27-remove-add/remove-circle-2.svg" },
+            "remove-tab"  :  { "value"  :  "assets/icons/line/27-remove-add/remove-tab.svg" },
+            "subtract-1"  :  { "value"  :  "assets/icons/line/27-remove-add/subtract-1.svg" },
+            "subtract-2"  :  { "value"  :  "assets/icons/line/27-remove-add/subtract-2.svg" },
+            "subtract-box"  :  { "value"  :  "assets/icons/line/27-remove-add/subtract-box.svg" },
+            "subtract-circle-1"  :  { "value"  :  "assets/icons/line/27-remove-add/subtract-circle-1.svg" },
+            "subtract-circle-2"  :  { "value"  :  "assets/icons/line/27-remove-add/subtract-circle-2.svg" },
+            "subtract-tab"  :  { "value"  :  "assets/icons/line/27-remove-add/subtract-tab.svg" }
+          },
+          "filled": {
+            "add-1"  :  { "value"  :  "assets/icons/filled/27-remove-add/add-1.svg" },
+            "add-2"  :  { "value"  :  "assets/icons/filled/27-remove-add/add-2.svg" },
+            "add-box"  :  { "value"  :  "assets/icons/filled/27-remove-add/add-box.svg" },
+            "add-circle-1"  :  { "value"  :  "assets/icons/filled/27-remove-add/add-circle-1.svg" },
+            "add-circle-2"  :  { "value"  :  "assets/icons/filled/27-remove-add/add-circle-2.svg" },
+            "add-circle-double"  :  { "value"  :  "assets/icons/filled/27-remove-add/add-circle-double.svg" },
+            "add-tab"  :  { "value"  :  "assets/icons/filled/27-remove-add/add-tab.svg" },
+            "remove-1"  :  { "value"  :  "assets/icons/filled/27-remove-add/remove-1.svg" },
+            "remove-2"  :  { "value"  :  "assets/icons/filled/27-remove-add/remove-2.svg" },
+            "remove-box"  :  { "value"  :  "assets/icons/filled/27-remove-add/remove-box.svg" },
+            "remove-circle-1"  :  { "value"  :  "assets/icons/filled/27-remove-add/remove-circle-1.svg" },
+            "remove-circle-2"  :  { "value"  :  "assets/icons/filled/27-remove-add/remove-circle-2.svg" },
+            "remove-tab"  :  { "value"  :  "assets/icons/filled/27-remove-add/remove-tab.svg" },
+            "subtract-1"  :  { "value"  :  "assets/icons/filled/27-remove-add/subtract-1.svg" },
+            "subtract-2"  :  { "value"  :  "assets/icons/filled/27-remove-add/subtract-2.svg" },
+            "subtract-box"  :  { "value"  :  "assets/icons/filled/27-remove-add/subtract-box.svg" },
+            "subtract-circle-1"  :  { "value"  :  "assets/icons/filled/27-remove-add/subtract-circle-1.svg" },
+            "subtract-circle-2"  :  { "value"  :  "assets/icons/filled/27-remove-add/subtract-circle-2.svg" },
+            "subtract-tab"  :  { "value"  :  "assets/icons/filled/27-remove-add/subtract-tab.svg" }
+          }
+      }
+   }
+}

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="24px"
+	 height="24px" viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve">
+<g id="Filled_Icons_1_">
+	<g id="Filled_Icons">
+		<g>
+			<path d="M21.5,6h-19C1.122,6,0,7.122,0,8.5v6C0,15.878,1.122,17,2.5,17H5v6.5C5,23.776,5.224,24,5.5,24h13
+				c0.276,0,0.5-0.224,0.5-0.5V17h2.5c1.378,0,2.5-1.122,2.5-2.5v-6C24,7.122,22.878,6,21.5,6z M3.5,11C2.673,11,2,10.327,2,9.5
+				S2.673,8,3.5,8S5,8.673,5,9.5S4.327,11,3.5,11z M18,23H6v-9h12V23z"/>
+			<path d="M18.854,3.147l-3-3C15.76,0.053,15.633,0,15.5,0h-10C5.224,0,5,0.224,5,0.5v4C5,4.776,5.224,5,5.5,5h13
+				C18.776,5,19,4.776,19,4.5v-1C19,3.367,18.947,3.24,18.854,3.147z M15.5,3.5v-3l3,3L15.5,3.5z"/>
+			<polygon points="14.422,15.244 11.892,19.022 9.402,16.976 6.803,22 17.205,22 			"/>
+			<circle cx="8.684" cy="15.784" r="1"/>
+			<circle cx="3.5" cy="9.5" r="0.5"/>
+		</g>
+	</g>
+	<g id="New_icons">
+	</g>
+</g>
+<g id="Frames-24px">
+	<rect fill="none" width="24" height="24"/>
+</g>
+</svg>

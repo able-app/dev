@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="24px"
+	 height="24px" viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve">
+<g id="Outline_Icons">
+	<g>
+		<path fill="none" stroke="#000000" stroke-linejoin="round" stroke-miterlimit="10" d="M23.5,15.5c0,2.209-1.791,4-4,4h-15
+			c-2.209,0-4-1.791-4-4v-6c0-2.209,1.791-4,4-4h15c2.209,0,4,1.791,4,4V15.5z"/>
+		
+			<circle fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="13.5" cy="10" r="1"/>
+		
+			<circle fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="13.5" cy="15" r="1"/>
+		<polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+			4.5,16.395 4.5,9 2.5,10.5 		"/>
+		<g>
+			<path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M8.483,12.009
+				c1.689,0,1.984,1.444,1.984,2.245c0,0.802-0.294,2.246-1.984,2.246c-1.689,0-1.983-1.444-1.983-2.246
+				C6.5,13.453,6.794,12.009,8.483,12.009z"/>
+			<path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M9.467,9
+				C6.974,9,6.5,10.95,6.5,12.133v2.121"/>
+		</g>
+		<g>
+			<path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M18.517,13.491
+				c-1.689,0-1.984-1.444-1.984-2.245c0-0.802,0.294-2.246,1.984-2.246c1.689,0,1.983,1.444,1.983,2.246
+				C20.5,12.047,20.206,13.491,18.517,13.491z"/>
+			<path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M17.5,16.5
+				c2.493,0,3-1.949,3-3.133v-2.121"/>
+		</g>
+	</g>
+</g>
+<g id="Invisible_Shape">
+	<rect fill="none" width="24" height="24"/>
+</g>
+</svg>

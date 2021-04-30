@@ -1,0 +1,13 @@
+{
+  "size": {
+    "radius": {
+      "none"     : { "value": "0" },
+      "xsmall"     : { "value": "4" },
+      "small"    : { "value": "8" },
+      "medium"   : { "value": "12" },
+      "large"    : { "value": "16" },
+      "xlarge"   : { "value": "20" },
+      "base"     : { "value": "{size.radius.xsmall.value}" }
+    }
+  }
+}

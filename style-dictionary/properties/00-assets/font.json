@@ -1,0 +1,19 @@
+{
+  "assets": {
+    "font": {
+      "lato": {
+        "name"              : { "value": "Lato" },
+        "black"             : { "value": "assets/fonts/Lato/Lato-Black.ttf" },
+        "black-italic"      : { "value": "assets/fonts/Lato/Lato-BlackItalic.ttf" },
+        "bold"              : { "value": "assets/fonts/Lato/Lato-Bold.ttf" },
+        "bold-italic"       : { "value": "assets/fonts/Lato/Lato-BoldItalic.ttf" },
+        "hairline"          : { "value": "assets/fonts/Lato/Lato-Hairline.ttf" },
+        "hairline-italic"   : { "value": "assets/fonts/Lato/Lato-HairlineItalic.ttf" },
+        "italic"            : { "value": "assets/fonts/Lato/Lato-Italic.ttf" },
+        "light"             : { "value": "assets/fonts/Lato/Lato-Light.ttf" },
+        "light-italic"      : { "value": "assets/fonts/Lato/Lato-LightItalic.ttf" },
+        "regular"           : { "value": "assets/fonts/Lato/Lato-Regular.ttf" }
+      }
+   }
+  }
+}

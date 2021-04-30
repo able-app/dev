@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="24px"
+	 height="24px" viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve">
+<g id="Outline_Icons">
+	<g>
+		<path fill="none" stroke="#000000" stroke-linejoin="round" stroke-miterlimit="10" d="M17.477,5.5l2-5
+			c-1.563,0.327-2.413,1.856-4,2.018c-1.579,0.161-1.896-1.044-3.499-1.048c-1.58-0.005-1.898,1.196-3.501,1.03
+			c-1.565-0.161-2.413-1.684-4-2l2,5c0,5.65-4.756,6.446-4.977,15.953c-0.014,0.538,0.192,1.059,0.568,1.443
+			C2.445,23.283,2.961,23.5,3.499,23.5h16.955c0.538,0,1.055-0.217,1.431-0.603c0.377-0.386,0.581-0.906,0.568-1.444
+			C22.23,11.986,17.477,11.032,17.477,5.5z"/>
+		<ellipse fill="none" stroke="#000000" stroke-linejoin="round" stroke-miterlimit="10" cx="11.977" cy="17.5" rx="3.75" ry="3"/>
+		
+			<ellipse fill="none" stroke="#000000" stroke-linejoin="round" stroke-miterlimit="10" cx="11.977" cy="11.24" rx="0.875" ry="1.26"/>
+		
+			<ellipse fill="none" stroke="#000000" stroke-linejoin="round" stroke-miterlimit="10" cx="8.393" cy="12.24" rx="0.875" ry="1.26"/>
+		
+			<ellipse fill="none" stroke="#000000" stroke-linejoin="round" stroke-miterlimit="10" cx="15.393" cy="12.24" rx="0.875" ry="1.26"/>
+		<line fill="none" stroke="#000000" stroke-linejoin="round" stroke-miterlimit="10" x1="8" y1="5.5" x2="10" y2="5.5"/>
+		<line fill="none" stroke="#000000" stroke-linejoin="round" stroke-miterlimit="10" x1="11" y1="5.5" x2="13" y2="5.5"/>
+		<line fill="none" stroke="#000000" stroke-linejoin="round" stroke-miterlimit="10" x1="14" y1="5.5" x2="16" y2="5.5"/>
+	</g>
+</g>
+<g id="invisible_shape">
+	<rect fill="none" width="24" height="24"/>
+</g>
+</svg>

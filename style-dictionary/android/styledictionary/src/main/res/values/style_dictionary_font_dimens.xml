@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+  Do not edit directly
+  Generated on Tue, 21 May 2019 02:47:50 GMT
+-->
+<resources>
+  <dimen name="size_font_h_1_weight">assets/fonts/Lato/Lato-Regular.ttf</dimen>
+  <dimen name="size_font_h_1_size">640.00sp</dimen>
+  <dimen name="size_font_h_1_line_height">768.00sp</dimen>
+  <dimen name="size_font_h_1_comment">NaNsp</dimen>
+  <dimen name="size_font_h_2_weight">assets/fonts/Lato/Lato-Regular.ttf</dimen>
+  <dimen name="size_font_h_2_size">512.00sp</dimen>
+  <dimen name="size_font_h_2_line_height">640.00sp</dimen>
+  <dimen name="size_font_h_2_comment">NaNsp</dimen>
+  <dimen name="size_font_h_3_weight">assets/fonts/Lato/Lato-Regular.ttf</dimen>
+  <dimen name="size_font_h_3_size">384.00sp</dimen>
+  <dimen name="size_font_h_3_line_height">512.00sp</dimen>
+  <dimen name="size_font_h_3_comment">NaNsp</dimen>
+  <dimen name="size_font_r_1_b_weight">assets/fonts/Lato/Lato-Bold.ttf</dimen>
+  <dimen name="size_font_r_1_b_size">320.00sp</dimen>
+  <dimen name="size_font_r_1_b_line_height">384.00sp</dimen>
+  <dimen name="size_font_r_1_b_comment">NaNsp</dimen>
+  <dimen name="size_font_r_1_weight">assets/fonts/Lato/Lato-Regular.ttf</dimen>
+  <dimen name="size_font_r_1_size">320.00sp</dimen>
+  <dimen name="size_font_r_1_line_height">384.00sp</dimen>
+  <dimen name="size_font_r_1_comment">NaNsp</dimen>
+  <dimen name="size_font_r_2_b_weight">assets/fonts/Lato/Lato-Bold.ttf</dimen>
+  <dimen name="size_font_r_2_b_size">256.00sp</dimen>
+  <dimen name="size_font_r_2_b_line_height">384.00sp</dimen>
+  <dimen name="size_font_r_2_b_comment">NaNsp</dimen>
+  <dimen name="size_font_r_2_weight">assets/fonts/Lato/Lato-Regular.ttf</dimen>
+  <dimen name="size_font_r_2_size">256.00sp</dimen>
+  <dimen name="size_font_r_2_line_height">384.00sp</dimen>
+  <dimen name="size_font_r_2_comment">NaNsp</dimen>
+  <dimen name="size_font_r_3_b_weight">assets/fonts/Lato/Lato-Bold.ttf</dimen>
+  <dimen name="size_font_r_3_b_size">224.00sp</dimen>
+  <dimen name="size_font_r_3_b_line_height">256.00sp</dimen>
+  <dimen name="size_font_r_3_b_comment">NaNsp</dimen>
+  <dimen name="size_font_r_3_weight">assets/fonts/Lato/Lato-Regular.ttf</dimen>
+  <dimen name="size_font_r_3_size">224.00sp</dimen>
+  <dimen name="size_font_r_3_line_height">256.00sp</dimen>
+  <dimen name="size_font_r_3_comment">NaNsp</dimen>
+  <dimen name="size_font_r_4_b_weight">assets/fonts/Lato/Lato-Bold.ttf</dimen>
+  <dimen name="size_font_r_4_b_size">192.00sp</dimen>
+  <dimen name="size_font_r_4_b_line_height">256.00sp</dimen>
+  <dimen name="size_font_r_4_b_comment">NaNsp</dimen>
+  <dimen name="size_font_r_4_weight">assets/fonts/Lato/Lato-Regular.ttf</dimen>
+  <dimen name="size_font_r_4_size">192.00sp</dimen>
+  <dimen name="size_font_r_4_line_height">256.00sp</dimen>
+  <dimen name="size_font_r_4_comment">NaNsp</dimen>
+  
+</resources>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="24px"
+	 height="24px" viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve">
+<g id="Outline_Icons">
+	<g>
+		<path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M3.5,14.5
+			c0,1.104,0.896,2,2,2h14c1.104,0,2-0.896,2-2v-4c0-1.104-0.896-2-2-2h-14c-1.104,0-2,0.896-2,2V14.5z"/>
+		<polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="7,8.5 
+			12.5,3 18,8.5 		"/>
+		<path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M17,14.5v-4h0.5
+			c0.87,0,1.5,0.92,1.5,2s-0.63,2-1.5,2H17z"/>
+		<polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+			15.5,14.5 13.5,14.5 13.5,10.5 		"/>
+		<path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M11.5,12.5
+			c0,1.104-0.059,2-1,2c-0.943,0-1-0.896-1-2c0-1.105,0.057-2,1-2C11.441,10.5,11.5,11.395,11.5,12.5z"/>
+		<path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M6,13.563
+			C6.03,14.086,6.437,14.5,6.935,14.5c0.517,0,0.938-0.448,0.938-1.001c0-0.815-0.771-0.952-0.937-0.999
+			C6.772,12.452,6,12.314,6,11.5c0-0.553,0.419-1,0.936-1c0.498,0,0.905,0.413,0.937,0.936"/>
+	</g>
+</g>
+<g id="invisible_shape">
+	<rect fill="none" width="24" height="24"/>
+</g>
+</svg>

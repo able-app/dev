@@ -1,0 +1,14 @@
+{
+  "size": {
+    "image": {
+      "xsmall": { "value":"48" },
+      "small": { "value":"56" },
+      "medium" : { "value":"64" },
+      "large": { "value":"72" },
+      "xl"   : { "value":"80" },
+      "xxl"   : { "value":"88" },
+      "xxxl"   : { "value":"112" },
+      "huge"  : { "value":"360" }
+    }
+  }
+}

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="24px"
+	 height="24px" viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve">
+<g id="Outline_Icons">
+	<g>
+		<g>
+			<path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M3,7.5
+				l2.768-6.001c0.773-1.331,2.692-1.331,3.465,0l1.776,2.86c0.146-1.027,1.576-1.174,1.931-0.204L14.5,7.5H3z"/>
+			<g>
+				<g>
+					<path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M10,9.753c0,0,0.003,0.183,0.035,0.495"
+						/>
+					<path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1.0002,2.0003" d="
+						M10.419,12.205c0.428,1.477,1.293,3.297,3.04,4.505c3.075,2.126,8.519,0.759,9.462,5.288"/>
+					<path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M23.049,23
+						c0.009,0.16,0.014,0.327,0.014,0.5"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M5.787,14.748
+				c0.616,0.6,1.495-0.391,0.825-0.932L4.5,11.514l-2.132,2.306c-0.668,0.544,0.22,1.533,0.833,0.923l-1.679,2.123
+				c-0.589,0.584,0.313,1.471,0.889,0.868l-1.333,1.704C0.688,19.826,0.96,20.5,1.518,20.5h5.965c0.56,0,0.828-0.677,0.438-1.064
+				l-1.303-1.691c0.58,0.582,1.467-0.306,0.875-0.885L5.787,14.748z"/>
+			
+				<line fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="4.5" y1="20.5" x2="4.5" y2="22.514"/>
+		</g>
+		<g>
+			<path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M20.787,7.748
+				c0.616,0.6,1.495-0.391,0.825-0.932L19.5,4.514l-2.132,2.306c-0.668,0.544,0.22,1.533,0.833,0.923l-1.679,2.123
+				c-0.589,0.584,0.313,1.471,0.889,0.868l-1.333,1.704c-0.391,0.389-0.118,1.062,0.439,1.062h5.965c0.56,0,0.828-0.677,0.438-1.064
+				l-1.303-1.691c0.58,0.582,1.467-0.306,0.875-0.885L20.787,7.748z"/>
+			
+				<line fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="19.5" y1="13.5" x2="19.5" y2="15.514"/>
+		</g>
+	</g>
+</g>
+<g id="invisible_shape">
+	<rect fill="none" width="24" height="24"/>
+</g>
+</svg>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="24px"
+	 height="24px" viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve">
+<g id="Filled_Icons_1_">
+	<g id="Filled_Icons">
+		<g>
+			<path d="M22.021,5.5c0-1.93-1.57-3.5-3.5-3.5s-3.5,1.57-3.5,3.5c0,1.391,0.822,2.585,2,3.148V10.5c0,0.276,0.224,0.5,0.5,0.5h2
+				c0.276,0,0.5-0.224,0.5-0.5V8.648C21.2,8.085,22.021,6.891,22.021,5.5z M18.521,8c-1.378,0-2.5-1.121-2.5-2.5s1.122-2.5,2.5-2.5
+				c1.378,0,2.5,1.121,2.5,2.5S19.9,8,18.521,8z"/>
+			<rect x="18" width="1" height="1"/>
+			<rect x="21.542" y="1.449" transform="matrix(0.7066 -0.7076 0.7076 0.7066 5.0876 16.1686)" width="0.999" height="1.001"/>
+			<rect x="23" y="5" width="1" height="1"/>
+			<rect x="21.541" y="8.521" transform="matrix(0.7076 -0.7066 0.7066 0.7076 0.0708 18.2122)" width="1.001" height="0.999"/>
+			<rect x="14.471" y="8.521" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -1.9936 13.2279)" width="1" height="1"/>
+			<rect x="13" y="5" width="1" height="1"/>
+			<rect x="14.471" y="1.449" transform="matrix(0.7071 -0.7071 0.7071 0.7071 3.0065 11.1568)" width="1" height="1"/>
+			<g>
+				<circle cx="6.5" cy="4" r="4"/>
+				<path d="M12,9H7.46l0.558,6.689L6.5,17.207l-1.518-1.518L5.54,9H1C0.724,9,0.5,9.224,0.5,9.5c0,3.554,1.271,6.369,3.5,7.783
+					V23.5C4,23.776,4.224,24,4.5,24h4C8.776,24,9,23.776,9,23.5v-6.217c2.229-1.414,3.5-4.23,3.5-7.783C12.5,9.224,12.276,9,12,9z"
+					/>
+			</g>
+		</g>
+	</g>
+	<g id="New_icons">
+	</g>
+</g>
+<g id="Invisible_Shape">
+	<rect fill="none" width="24" height="24"/>
+</g>
+</svg>

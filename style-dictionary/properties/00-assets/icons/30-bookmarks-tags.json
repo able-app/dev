@@ -1,0 +1,60 @@
+{
+  "assets": {
+      "icon": {
+          "line": {
+            "bookmark-1"  :  { "value"  :  "assets/icons/line/30-bookmarks-tags/bookmark-1.svg" },
+            "bookmark-2"  :  { "value"  :  "assets/icons/line/30-bookmarks-tags/bookmark-2.svg" },
+            "bookmark-3"  :  { "value"  :  "assets/icons/line/30-bookmarks-tags/bookmark-3.svg" },
+            "bookmark-4"  :  { "value"  :  "assets/icons/line/30-bookmarks-tags/bookmark-4.svg" },
+            "bookmark-5"  :  { "value"  :  "assets/icons/line/30-bookmarks-tags/bookmark-5.svg" },
+            "bookmark-add"  :  { "value"  :  "assets/icons/line/30-bookmarks-tags/bookmark-add.svg" },
+            "bookmark-all-1"  :  { "value"  :  "assets/icons/line/30-bookmarks-tags/bookmark-all-1.svg" },
+            "bookmark-all-2"  :  { "value"  :  "assets/icons/line/30-bookmarks-tags/bookmark-all-2.svg" },
+            "bookmark-article"  :  { "value"  :  "assets/icons/line/30-bookmarks-tags/bookmark-article.svg" },
+            "bookmark-block"  :  { "value"  :  "assets/icons/line/30-bookmarks-tags/bookmark-block.svg" },
+            "bookmark-cash"  :  { "value"  :  "assets/icons/line/30-bookmarks-tags/bookmark-cash.svg" },
+            "bookmark-check"  :  { "value"  :  "assets/icons/line/30-bookmarks-tags/bookmark-check.svg" },
+            "bookmark-download"  :  { "value"  :  "assets/icons/line/30-bookmarks-tags/bookmark-download.svg" },
+            "bookmark-edit"  :  { "value"  :  "assets/icons/line/30-bookmarks-tags/bookmark-edit.svg" },
+            "bookmark-favorite-heart"  :  { "value"  :  "assets/icons/line/30-bookmarks-tags/bookmark-favorite-heart.svg" },
+            "bookmark-favorite-star"  :  { "value"  :  "assets/icons/line/30-bookmarks-tags/bookmark-favorite-star.svg" },
+            "bookmark-lock"  :  { "value"  :  "assets/icons/line/30-bookmarks-tags/bookmark-lock.svg" },
+            "bookmark-refresh"  :  { "value"  :  "assets/icons/line/30-bookmarks-tags/bookmark-refresh.svg" },
+            "bookmark-remove"  :  { "value"  :  "assets/icons/line/30-bookmarks-tags/bookmark-remove.svg" },
+            "bookmark-setting"  :  { "value"  :  "assets/icons/line/30-bookmarks-tags/bookmark-setting.svg" },
+            "bookmark-share"  :  { "value"  :  "assets/icons/line/30-bookmarks-tags/bookmark-share.svg" },
+            "bookmark-subtract"  :  { "value"  :  "assets/icons/line/30-bookmarks-tags/bookmark-subtract.svg" },
+            "bookmark-upload"  :  { "value"  :  "assets/icons/line/30-bookmarks-tags/bookmark-upload.svg" },
+            "bookmark-view"  :  { "value"  :  "assets/icons/line/30-bookmarks-tags/bookmark-view.svg" },
+            "bookmark-warning"  :  { "value"  :  "assets/icons/line/30-bookmarks-tags/bookmark-warning.svg" }
+          },
+          "filled": {
+            "bookmark-1"  :  { "value"  :  "assets/icons/filled/30-bookmarks-tags/bookmark-1.svg" },
+            "bookmark-2"  :  { "value"  :  "assets/icons/filled/30-bookmarks-tags/bookmark-2.svg" },
+            "bookmark-3"  :  { "value"  :  "assets/icons/filled/30-bookmarks-tags/bookmark-3.svg" },
+            "bookmark-4"  :  { "value"  :  "assets/icons/filled/30-bookmarks-tags/bookmark-4.svg" },
+            "bookmark-5"  :  { "value"  :  "assets/icons/filled/30-bookmarks-tags/bookmark-5.svg" },
+            "bookmark-add"  :  { "value"  :  "assets/icons/filled/30-bookmarks-tags/bookmark-add.svg" },
+            "bookmark-all-1"  :  { "value"  :  "assets/icons/filled/30-bookmarks-tags/bookmark-all-1.svg" },
+            "bookmark-all-2"  :  { "value"  :  "assets/icons/filled/30-bookmarks-tags/bookmark-all-2.svg" },
+            "bookmark-article"  :  { "value"  :  "assets/icons/filled/30-bookmarks-tags/bookmark-article.svg" },
+            "bookmark-block"  :  { "value"  :  "assets/icons/filled/30-bookmarks-tags/bookmark-block.svg" },
+            "bookmark-cash"  :  { "value"  :  "assets/icons/filled/30-bookmarks-tags/bookmark-cash.svg" },
+            "bookmark-check"  :  { "value"  :  "assets/icons/filled/30-bookmarks-tags/bookmark-check.svg" },
+            "bookmark-download"  :  { "value"  :  "assets/icons/filled/30-bookmarks-tags/bookmark-download.svg" },
+            "bookmark-edit"  :  { "value"  :  "assets/icons/filled/30-bookmarks-tags/bookmark-edit.svg" },
+            "bookmark-favorite-heart"  :  { "value"  :  "assets/icons/filled/30-bookmarks-tags/bookmark-favorite-heart.svg" },
+            "bookmark-favorite-star"  :  { "value"  :  "assets/icons/filled/30-bookmarks-tags/bookmark-favorite-star.svg" },
+            "bookmark-lock"  :  { "value"  :  "assets/icons/filled/30-bookmarks-tags/bookmark-lock.svg" },
+            "bookmark-refresh"  :  { "value"  :  "assets/icons/filled/30-bookmarks-tags/bookmark-refresh.svg" },
+            "bookmark-remove"  :  { "value"  :  "assets/icons/filled/30-bookmarks-tags/bookmark-remove.svg" },
+            "bookmark-setting"  :  { "value"  :  "assets/icons/filled/30-bookmarks-tags/bookmark-setting.svg" },
+            "bookmark-share"  :  { "value"  :  "assets/icons/filled/30-bookmarks-tags/bookmark-share.svg" },
+            "bookmark-subtract"  :  { "value"  :  "assets/icons/filled/30-bookmarks-tags/bookmark-subtract.svg" },
+            "bookmark-upload"  :  { "value"  :  "assets/icons/filled/30-bookmarks-tags/bookmark-upload.svg" },
+            "bookmark-view"  :  { "value"  :  "assets/icons/filled/30-bookmarks-tags/bookmark-view.svg" },
+            "bookmark-warning"  :  { "value"  :  "assets/icons/filled/30-bookmarks-tags/bookmark-warning.svg" }
+          }
+      }
+   }
+}

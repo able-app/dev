@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="24px"
+	 height="24px" viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve">
+<g id="Outline_Icons">
+	<g>
+		<line fill="none" stroke="#000000" stroke-linejoin="round" stroke-miterlimit="10" x1="7.5" y1="8.503" x2="16.5" y2="8.503"/>
+		<line fill="none" stroke="#000000" stroke-linejoin="round" stroke-miterlimit="10" x1="7.5" y1="12.503" x2="16.5" y2="12.503"/>
+		<line fill="none" stroke="#000000" stroke-linejoin="round" stroke-miterlimit="10" x1="7.5" y1="16.503" x2="16.5" y2="16.503"/>
+		<path fill="none" stroke="#000000" stroke-linejoin="round" stroke-miterlimit="10" d="M19.5,20.519c0-1.104,0.896-2,2-2
+			s2,0.896,2,2v2.984h-4V20.519z"/>
+		
+			<line fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="21.5" y1="0.503" x2="21.5" y2="18.519"/>
+		<path fill="none" stroke="#000000" stroke-linejoin="round" stroke-miterlimit="10" d="M4.5,3.487c0,1.104-0.896,2-2,2
+			s-2-0.896-2-2V0.503h4V3.487z"/>
+		
+			<line fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="2.5" y1="23.503" x2="2.5" y2="5.487"/>
+		<path fill="none" stroke="#000000" stroke-linejoin="round" stroke-miterlimit="10" d="M5.5,7.816c0-0.838,0.35-1.637,0.965-2.204
+			l3.5-3.231c1.149-1.062,2.92-1.062,4.07,0l3.5,3.231C18.15,6.18,18.5,6.979,18.5,7.816v9.187c0,3.59-2.91,6.5-6.5,6.5
+			s-6.5-2.91-6.5-6.5V7.816z"/>
+		<path fill="none" stroke="#000000" stroke-linejoin="round" stroke-miterlimit="10" d="M7.5,8.413
+			c0-0.581,0.236-1.137,0.663-1.531l2.427-2.244c0.798-0.736,2.027-0.736,2.825,0l2.423,2.244c0.428,0.395,0.662,0.95,0.662,1.531
+			v8.075c0,2.493-2.007,4.515-4.5,4.515s-4.5-2.021-4.5-4.515V8.413z"/>
+	</g>
+</g>
+<g id="invisible_shape">
+	<rect fill="none" width="24" height="24"/>
+</g>
+</svg>

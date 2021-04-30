@@ -1,0 +1,17 @@
+{
+  "size": {
+    "spacing": {
+      "none"     : { "value": "0" },
+      "xxsmall"     : { "value": "2" },
+      "xsmall"     : { "value": "4" },
+      "small"    : { "value": "8" },
+      "medium"   : { "value": "16" },
+      "large"    : { "value": "24" },
+      "xlarge"       : { "value": "32" },
+      "xxlarge"      : { "value": "48" },
+      "xxxlarge"      : { "value": "56" },
+      "huge"      : { "value": "64" },
+      "base"     : { "value": "{size.spacing.small.value}" }
+    }
+  }
+}

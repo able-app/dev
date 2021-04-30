@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="24px"
+	 height="24px" viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve">
+<g id="Filled_Icons_1_">
+	<g id="Filled_Icons">
+		<g>
+			<g>
+				<path d="M3.5,22C2.672,22,2,21.329,2,20.5V4H0.5C0.224,4,0,4.224,0,4.5v19C0,23.776,0.224,24,0.5,24h19
+					c0.276,0,0.5-0.224,0.5-0.5V22H3.5z"/>
+			</g>
+			<g>
+				<polygon points="15,11 15,6.872 12.132,11 				"/>
+				<path d="M23.5,0h-20C3.224,0,3,0.224,3,0.5v20C3,20.776,3.224,21,3.5,21h20c0.276,0,0.5-0.224,0.5-0.5v-20
+					C24,0.224,23.776,0,23.5,0z M16.285,12H16v3.064c0,0.276-0.224,0.5-0.5,0.5s-0.5-0.224-0.5-0.5V12h-3.824
+					c-0.401,0-0.642-0.453-0.41-0.785l4.324-6.224C15.37,4.587,16,4.791,16,5.276V11h0.285c0.276,0,0.5,0.224,0.5,0.5
+					S16.562,12,16.285,12z"/>
+			</g>
+		</g>
+	</g>
+	<g id="New_icons">
+	</g>
+</g>
+<g id="Invisible_Shape">
+	<rect fill="none" width="24" height="24"/>
+</g>
+</svg>

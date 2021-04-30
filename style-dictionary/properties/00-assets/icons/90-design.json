@@ -1,0 +1,56 @@
+{
+  "assets": {
+      "icon": {
+          "line": {
+            "file-3d"  :  { "value"  :  "assets/icons/line/90-design/file-3d.svg" },
+            "file-format-3ds-1"  :  { "value"  :  "assets/icons/line/90-design/file-format-3ds-1.svg" },
+            "file-format-3ds-2"  :  { "value"  :  "assets/icons/line/90-design/file-format-3ds-2.svg" },
+            "file-format-dwg-1"  :  { "value"  :  "assets/icons/line/90-design/file-format-dwg-1.svg" },
+            "file-format-dwg-2"  :  { "value"  :  "assets/icons/line/90-design/file-format-dwg-2.svg" },
+            "file-format-dxf-1"  :  { "value"  :  "assets/icons/line/90-design/file-format-dxf-1.svg" },
+            "file-format-dxf-2"  :  { "value"  :  "assets/icons/line/90-design/file-format-dxf-2.svg" },
+            "file-format-illustrator-1"  :  { "value"  :  "assets/icons/line/90-design/file-format-illustrator-1.svg" },
+            "file-format-illustrator-2"  :  { "value"  :  "assets/icons/line/90-design/file-format-illustrator-2.svg" },
+            "file-format-indesign-1"  :  { "value"  :  "assets/icons/line/90-design/file-format-indesign-1.svg" },
+            "file-format-indesign-2"  :  { "value"  :  "assets/icons/line/90-design/file-format-indesign-2.svg" },
+            "file-format-max-1"  :  { "value"  :  "assets/icons/line/90-design/file-format-max-1.svg" },
+            "file-format-max-2"  :  { "value"  :  "assets/icons/line/90-design/file-format-max-2.svg" },
+            "file-format-opentype-1"  :  { "value"  :  "assets/icons/line/90-design/file-format-opentype-1.svg" },
+            "file-format-opentype-2"  :  { "value"  :  "assets/icons/line/90-design/file-format-opentype-2.svg" },
+            "file-format-photoshop-1"  :  { "value"  :  "assets/icons/line/90-design/file-format-photoshop-1.svg" },
+            "file-format-photoshop-2"  :  { "value"  :  "assets/icons/line/90-design/file-format-photoshop-2.svg" },
+            "file-format-truetype-1"  :  { "value"  :  "assets/icons/line/90-design/file-format-truetype-1.svg" },
+            "file-format-truetype-2"  :  { "value"  :  "assets/icons/line/90-design/file-format-truetype-2.svg" },
+            "file-text-picture"  :  { "value"  :  "assets/icons/line/90-design/file-text-picture.svg" },
+            "file-text"  :  { "value"  :  "assets/icons/line/90-design/file-text.svg" },
+            "file-vector-1"  :  { "value"  :  "assets/icons/line/90-design/file-vector-1.svg" },
+            "file-vector-2"  :  { "value"  :  "assets/icons/line/90-design/file-vector-2.svg" }
+          },
+          "filled": {
+            "file-3d"  :  { "value"  :  "assets/icons/filled/90-design/file-3d.svg" },
+            "file-format-3ds-1"  :  { "value"  :  "assets/icons/filled/90-design/file-format-3ds-1.svg" },
+            "file-format-3ds-2"  :  { "value"  :  "assets/icons/filled/90-design/file-format-3ds-2.svg" },
+            "file-format-dwg-1"  :  { "value"  :  "assets/icons/filled/90-design/file-format-dwg-1.svg" },
+            "file-format-dwg-2"  :  { "value"  :  "assets/icons/filled/90-design/file-format-dwg-2.svg" },
+            "file-format-dxf-1"  :  { "value"  :  "assets/icons/filled/90-design/file-format-dxf-1.svg" },
+            "file-format-dxf-2"  :  { "value"  :  "assets/icons/filled/90-design/file-format-dxf-2.svg" },
+            "file-format-illustrator-1"  :  { "value"  :  "assets/icons/filled/90-design/file-format-illustrator-1.svg" },
+            "file-format-illustrator-2"  :  { "value"  :  "assets/icons/filled/90-design/file-format-illustrator-2.svg" },
+            "file-format-indesign-1"  :  { "value"  :  "assets/icons/filled/90-design/file-format-indesign-1.svg" },
+            "file-format-indesign-2"  :  { "value"  :  "assets/icons/filled/90-design/file-format-indesign-2.svg" },
+            "file-format-max-1"  :  { "value"  :  "assets/icons/filled/90-design/file-format-max-1.svg" },
+            "file-format-max-2"  :  { "value"  :  "assets/icons/filled/90-design/file-format-max-2.svg" },
+            "file-format-opentype-1"  :  { "value"  :  "assets/icons/filled/90-design/file-format-opentype-1.svg" },
+            "file-format-opentype-2"  :  { "value"  :  "assets/icons/filled/90-design/file-format-opentype-2.svg" },
+            "file-format-photoshop-1"  :  { "value"  :  "assets/icons/filled/90-design/file-format-photoshop-1.svg" },
+            "file-format-photoshop-2"  :  { "value"  :  "assets/icons/filled/90-design/file-format-photoshop-2.svg" },
+            "file-format-truetype-1"  :  { "value"  :  "assets/icons/filled/90-design/file-format-truetype-1.svg" },
+            "file-format-truetype-2"  :  { "value"  :  "assets/icons/filled/90-design/file-format-truetype-2.svg" },
+            "file-text-picture"  :  { "value"  :  "assets/icons/filled/90-design/file-text-picture.svg" },
+            "file-text"  :  { "value"  :  "assets/icons/filled/90-design/file-text.svg" },
+            "file-vector-1"  :  { "value"  :  "assets/icons/filled/90-design/file-vector-1.svg" },
+            "file-vector-2"  :  { "value"  :  "assets/icons/filled/90-design/file-vector-2.svg" }
+          }
+      }
+   }
+}

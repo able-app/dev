@@ -1,0 +1,30 @@
+{
+  "assets": {
+      "icon": {
+          "line": {
+            "file-arborescence"  :  { "value"  :  "assets/icons/line/31-organization/file-arborescence.svg" },
+            "flow-chart-1"  :  { "value"  :  "assets/icons/line/31-organization/flow-chart-1.svg" },
+            "flow-chart-2"  :  { "value"  :  "assets/icons/line/31-organization/flow-chart-2.svg" },
+            "flow-chart-3"  :  { "value"  :  "assets/icons/line/31-organization/flow-chart-3.svg" },
+            "graph"  :  { "value"  :  "assets/icons/line/31-organization/graph.svg" },
+            "hierarchy-1"  :  { "value"  :  "assets/icons/line/31-organization/hierarchy-1.svg" },
+            "hierarchy-2"  :  { "value"  :  "assets/icons/line/31-organization/hierarchy-2.svg" },
+            "hierarchy-3"  :  { "value"  :  "assets/icons/line/31-organization/hierarchy-3.svg" },
+            "hierarchy-4"  :  { "value"  :  "assets/icons/line/31-organization/hierarchy-4.svg" },
+            "network"  :  { "value"  :  "assets/icons/line/31-organization/network.svg" }
+          },
+          "filled": {
+            "file-arborescence"  :  { "value"  :  "assets/icons/filled/31-organization/file-arborescence.svg" },
+            "flow-chart-1"  :  { "value"  :  "assets/icons/filled/31-organization/flow-chart-1.svg" },
+            "flow-chart-2"  :  { "value"  :  "assets/icons/filled/31-organization/flow-chart-2.svg" },
+            "flow-chart-3"  :  { "value"  :  "assets/icons/filled/31-organization/flow-chart-3.svg" },
+            "graph"  :  { "value"  :  "assets/icons/filled/31-organization/graph.svg" },
+            "hierarchy-1"  :  { "value"  :  "assets/icons/filled/31-organization/hierarchy-1.svg" },
+            "hierarchy-2"  :  { "value"  :  "assets/icons/filled/31-organization/hierarchy-2.svg" },
+            "hierarchy-3"  :  { "value"  :  "assets/icons/filled/31-organization/hierarchy-3.svg" },
+            "hierarchy-4"  :  { "value"  :  "assets/icons/filled/31-organization/hierarchy-4.svg" },
+            "network"  :  { "value"  :  "assets/icons/filled/31-organization/network.svg" }
+          }
+      }
+   }
+}

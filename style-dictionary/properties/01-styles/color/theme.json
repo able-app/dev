@@ -1,0 +1,17 @@
+{
+  "color": {
+    "theme": {
+      "primary"   : { "value": "theme.able-blue.primary.value" },
+      "secondary" : { "value": "theme.able-blue.secondary.value" },
+      "tertiary"  : { "value": "theme.able-blue.tertiary.value" },
+      "accent"    : { "value": "theme.able-blue.accent.value" },
+      "accent2"   : { "value": "theme.able-blue.accent2.value" },
+      "feedback"  : {
+            "info"    : {"value": "theme.able-blue.feedback.info.value"},
+            "success" : {"value": "theme.able-blue.feedback.success.value"},
+            "warn"    : {"value": "theme.able-blue.feedback.warn.value"},
+            "error"   : {"value": "theme.able-blue.feedback.error.value"}
+      }
+    }
+  }
+}

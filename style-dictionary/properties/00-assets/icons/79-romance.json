@@ -1,0 +1,62 @@
+{
+  "assets": {
+      "icon": {
+          "line": {
+            "cupid-bow"  :  { "value"  :  "assets/icons/line/79-romance/cupid-bow.svg" },
+            "engagement-anniversary"  :  { "value"  :  "assets/icons/line/79-romance/engagement-anniversary.svg" },
+            "heart-arrow"  :  { "value"  :  "assets/icons/line/79-romance/heart-arrow.svg" },
+            "heart-balloons"  :  { "value"  :  "assets/icons/line/79-romance/heart-balloons.svg" },
+            "heart-care"  :  { "value"  :  "assets/icons/line/79-romance/heart-care.svg" },
+            "heart-coffee-cup"  :  { "value"  :  "assets/icons/line/79-romance/heart-coffee-cup.svg" },
+            "heart-death"  :  { "value"  :  "assets/icons/line/79-romance/heart-death.svg" },
+            "heart-lock"  :  { "value"  :  "assets/icons/line/79-romance/heart-lock.svg" },
+            "heart-lockon"  :  { "value"  :  "assets/icons/line/79-romance/heart-lockon.svg" },
+            "heart-protect"  :  { "value"  :  "assets/icons/line/79-romance/heart-protect.svg" },
+            "heart-search"  :  { "value"  :  "assets/icons/line/79-romance/heart-search.svg" },
+            "heart-wand"  :  { "value"  :  "assets/icons/line/79-romance/heart-wand.svg" },
+            "lips"  :  { "value"  :  "assets/icons/line/79-romance/lips.svg" },
+            "love-couple"  :  { "value"  :  "assets/icons/line/79-romance/love-couple.svg" },
+            "love-music"  :  { "value"  :  "assets/icons/line/79-romance/love-music.svg" },
+            "love-temperature"  :  { "value"  :  "assets/icons/line/79-romance/love-temperature.svg" },
+            "phone-love-message"  :  { "value"  :  "assets/icons/line/79-romance/phone-love-message.svg" },
+            "romance-flowers"  :  { "value"  :  "assets/icons/line/79-romance/romance-flowers.svg" },
+            "romance-love-calendar"  :  { "value"  :  "assets/icons/line/79-romance/romance-love-calendar.svg" },
+            "romance-rose"  :  { "value"  :  "assets/icons/line/79-romance/romance-rose.svg" },
+            "teardrop"  :  { "value"  :  "assets/icons/line/79-romance/teardrop.svg" },
+            "wedding-cake"  :  { "value"  :  "assets/icons/line/79-romance/wedding-cake.svg" },
+            "wedding-car"  :  { "value"  :  "assets/icons/line/79-romance/wedding-car.svg" },
+            "wedding-certificate"  :  { "value"  :  "assets/icons/line/79-romance/wedding-certificate.svg" },
+            "wedding"  :  { "value"  :  "assets/icons/line/79-romance/wedding.svg" },
+            "whale-heart"  :  { "value"  :  "assets/icons/line/79-romance/whale-heart.svg" }
+          },
+          "filled": {
+            "cupid-bow"  :  { "value"  :  "assets/icons/filled/79-romance/cupid-bow.svg" },
+            "engagement-anniversary"  :  { "value"  :  "assets/icons/filled/79-romance/engagement-anniversary.svg" },
+            "heart-arrow"  :  { "value"  :  "assets/icons/filled/79-romance/heart-arrow.svg" },
+            "heart-balloons"  :  { "value"  :  "assets/icons/filled/79-romance/heart-balloons.svg" },
+            "heart-care"  :  { "value"  :  "assets/icons/filled/79-romance/heart-care.svg" },
+            "heart-coffee-cup"  :  { "value"  :  "assets/icons/filled/79-romance/heart-coffee-cup.svg" },
+            "heart-death"  :  { "value"  :  "assets/icons/filled/79-romance/heart-death.svg" },
+            "heart-lock"  :  { "value"  :  "assets/icons/filled/79-romance/heart-lock.svg" },
+            "heart-lockon"  :  { "value"  :  "assets/icons/filled/79-romance/heart-lockon.svg" },
+            "heart-protect"  :  { "value"  :  "assets/icons/filled/79-romance/heart-protect.svg" },
+            "heart-search"  :  { "value"  :  "assets/icons/filled/79-romance/heart-search.svg" },
+            "heart-wand"  :  { "value"  :  "assets/icons/filled/79-romance/heart-wand.svg" },
+            "lips"  :  { "value"  :  "assets/icons/filled/79-romance/lips.svg" },
+            "love-couple"  :  { "value"  :  "assets/icons/filled/79-romance/love-couple.svg" },
+            "love-music"  :  { "value"  :  "assets/icons/filled/79-romance/love-music.svg" },
+            "love-temperature"  :  { "value"  :  "assets/icons/filled/79-romance/love-temperature.svg" },
+            "phone-love-message"  :  { "value"  :  "assets/icons/filled/79-romance/phone-love-message.svg" },
+            "romance-flowers"  :  { "value"  :  "assets/icons/filled/79-romance/romance-flowers.svg" },
+            "romance-love-calendar"  :  { "value"  :  "assets/icons/filled/79-romance/romance-love-calendar.svg" },
+            "romance-rose"  :  { "value"  :  "assets/icons/filled/79-romance/romance-rose.svg" },
+            "teardrop"  :  { "value"  :  "assets/icons/filled/79-romance/teardrop.svg" },
+            "wedding-cake"  :  { "value"  :  "assets/icons/filled/79-romance/wedding-cake.svg" },
+            "wedding-car"  :  { "value"  :  "assets/icons/filled/79-romance/wedding-car.svg" },
+            "wedding-certificate"  :  { "value"  :  "assets/icons/filled/79-romance/wedding-certificate.svg" },
+            "wedding"  :  { "value"  :  "assets/icons/filled/79-romance/wedding.svg" },
+            "whale-heart"  :  { "value"  :  "assets/icons/filled/79-romance/whale-heart.svg" }
+          }
+      }
+   }
+}

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+  Do not edit directly
+  Generated on Tue, 21 May 2019 02:47:50 GMT
+-->
+<resources>
+  <dimen name="size_icon_small">192.00sp</dimen>
+  <dimen name="size_icon_medium">256.00sp</dimen>
+  <dimen name="size_icon_large">384.00sp</dimen>
+  <dimen name="size_icon_xl">768.00sp</dimen>
+  <dimen name="size_icon_xxl">896.00sp</dimen>
+  <dimen name="size_icon_xxxl">1024.00sp</dimen>
+  <dimen name="size_icon_huge">2176.00sp</dimen>
+  <dimen name="size_icon_base">256.00sp</dimen>
+  <dimen name="size_icon_nav">384.00sp</dimen>
+  <dimen name="size_image_xsmall">768.00dp</dimen>
+  <dimen name="size_image_small">896.00dp</dimen>
+  <dimen name="size_image_medium">1024.00dp</dimen>
+  <dimen name="size_image_large">1152.00dp</dimen>
+  <dimen name="size_image_xl">1280.00dp</dimen>
+  <dimen name="size_image_xxl">1408.00dp</dimen>
+  <dimen name="size_image_xxxl">1792.00dp</dimen>
+  <dimen name="size_image_huge">5760.00dp</dimen>
+  <dimen name="size_spacing_none">0.00dp</dimen>
+  <dimen name="size_spacing_xxsmall">32.00dp</dimen>
+  <dimen name="size_spacing_xsmall">64.00dp</dimen>
+  <dimen name="size_spacing_small">128.00dp</dimen>
+  <dimen name="size_spacing_medium">256.00dp</dimen>
+  <dimen name="size_spacing_large">384.00dp</dimen>
+  <dimen name="size_spacing_xlarge">512.00dp</dimen>
+  <dimen name="size_spacing_xxlarge">768.00dp</dimen>
+  <dimen name="size_spacing_xxxlarge">896.00dp</dimen>
+  <dimen name="size_spacing_huge">1024.00dp</dimen>
+  <dimen name="size_spacing_base">128.00dp</dimen>
+  
+</resources>

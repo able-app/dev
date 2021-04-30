@@ -1,0 +1,54 @@
+{
+  "assets": {
+      "icon": {
+          "line": {
+            "angel"  :  { "value"  :  "assets/icons/line/65-religion/angel.svg" },
+            "demon"  :  { "value"  :  "assets/icons/line/65-religion/demon.svg" },
+            "dharma-wheel"  :  { "value"  :  "assets/icons/line/65-religion/dharma-wheel.svg" },
+            "egypt-cross"  :  { "value"  :  "assets/icons/line/65-religion/egypt-cross.svg" },
+            "graveyard"  :  { "value"  :  "assets/icons/line/65-religion/graveyard.svg" },
+            "hand-eye"  :  { "value"  :  "assets/icons/line/65-religion/hand-eye.svg" },
+            "pyramid-eye"  :  { "value"  :  "assets/icons/line/65-religion/pyramid-eye.svg" },
+            "religion-bible"  :  { "value"  :  "assets/icons/line/65-religion/religion-bible.svg" },
+            "religion-christianity"  :  { "value"  :  "assets/icons/line/65-religion/religion-christianity.svg" },
+            "religion-hinduism"  :  { "value"  :  "assets/icons/line/65-religion/religion-hinduism.svg" },
+            "religion-islam"  :  { "value"  :  "assets/icons/line/65-religion/religion-islam.svg" },
+            "religion-judaism"  :  { "value"  :  "assets/icons/line/65-religion/religion-judaism.svg" },
+            "religion-shield-1"  :  { "value"  :  "assets/icons/line/65-religion/religion-shield-1.svg" },
+            "religion-shield-2"  :  { "value"  :  "assets/icons/line/65-religion/religion-shield-2.svg" },
+            "religion-taosim"  :  { "value"  :  "assets/icons/line/65-religion/religion-taosim.svg" },
+            "share-christianity-1"  :  { "value"  :  "assets/icons/line/65-religion/share-christianity-1.svg" },
+            "share-christianity-2"  :  { "value"  :  "assets/icons/line/65-religion/share-christianity-2.svg" },
+            "share-religion-eye-1"  :  { "value"  :  "assets/icons/line/65-religion/share-religion-eye-1.svg" },
+            "share-religion-eye-2"  :  { "value"  :  "assets/icons/line/65-religion/share-religion-eye-2.svg" },
+            "shrine-gate"  :  { "value"  :  "assets/icons/line/65-religion/shrine-gate.svg" },
+            "sign-peace"  :  { "value"  :  "assets/icons/line/65-religion/sign-peace.svg" },
+            "ying-yang"  :  { "value"  :  "assets/icons/line/65-religion/ying-yang.svg" }
+          },
+          "filled": {
+            "angel"  :  { "value"  :  "assets/icons/filled/65-religion/angel.svg" },
+            "demon"  :  { "value"  :  "assets/icons/filled/65-religion/demon.svg" },
+            "dharma-wheel"  :  { "value"  :  "assets/icons/filled/65-religion/dharma-wheel.svg" },
+            "egypt-cross"  :  { "value"  :  "assets/icons/filled/65-religion/egypt-cross.svg" },
+            "graveyard"  :  { "value"  :  "assets/icons/filled/65-religion/graveyard.svg" },
+            "hand-eye"  :  { "value"  :  "assets/icons/filled/65-religion/hand-eye.svg" },
+            "pyramid-eye"  :  { "value"  :  "assets/icons/filled/65-religion/pyramid-eye.svg" },
+            "religion-bible"  :  { "value"  :  "assets/icons/filled/65-religion/religion-bible.svg" },
+            "religion-christianity"  :  { "value"  :  "assets/icons/filled/65-religion/religion-christianity.svg" },
+            "religion-hinduism"  :  { "value"  :  "assets/icons/filled/65-religion/religion-hinduism.svg" },
+            "religion-islam"  :  { "value"  :  "assets/icons/filled/65-religion/religion-islam.svg" },
+            "religion-judaism"  :  { "value"  :  "assets/icons/filled/65-religion/religion-judaism.svg" },
+            "religion-shield-1"  :  { "value"  :  "assets/icons/filled/65-religion/religion-shield-1.svg" },
+            "religion-shield-2"  :  { "value"  :  "assets/icons/filled/65-religion/religion-shield-2.svg" },
+            "religion-taosim"  :  { "value"  :  "assets/icons/filled/65-religion/religion-taosim.svg" },
+            "share-christianity-1"  :  { "value"  :  "assets/icons/filled/65-religion/share-christianity-1.svg" },
+            "share-christianity-2"  :  { "value"  :  "assets/icons/filled/65-religion/share-christianity-2.svg" },
+            "share-religion-eye-1"  :  { "value"  :  "assets/icons/filled/65-religion/share-religion-eye-1.svg" },
+            "share-religion-eye-2"  :  { "value"  :  "assets/icons/filled/65-religion/share-religion-eye-2.svg" },
+            "shrine-gate"  :  { "value"  :  "assets/icons/filled/65-religion/shrine-gate.svg" },
+            "sign-peace"  :  { "value"  :  "assets/icons/filled/65-religion/sign-peace.svg" },
+            "ying-yang"  :  { "value"  :  "assets/icons/filled/65-religion/ying-yang.svg" }
+          }
+      }
+   }
+}

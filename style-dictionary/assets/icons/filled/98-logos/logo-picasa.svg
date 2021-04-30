@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="24px"
+	 height="24px" viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve">
+<g id="Filled_Icons">
+	<g>
+		<path d="M11.303,5.626L7.218,1.551C3.257,3.367,0.5,7.358,0.5,12c0,1.327,0.236,2.595,0.649,3.781L11.303,5.626z"/>
+		<polygon points="8,16 16,16 16,10.312 12.011,6.332 8,10.343 		"/>
+		<path d="M16,1.23c-1.248-0.464-2.591-0.73-4-0.73c-1.323,0-2.589,0.235-3.772,0.645L16,8.9V1.23z"/>
+		<path d="M22.344,17H8v5.771c1.248,0.464,2.591,0.729,4,0.729C16.557,23.5,20.482,20.843,22.344,17z"/>
+		<path d="M17,1.656V16h5.771c0.464-1.248,0.729-2.591,0.729-4C23.5,7.443,20.843,3.518,17,1.656z"/>
+		<path d="M7,22.344V11.343L1.554,16.79C2.669,19.216,4.6,21.182,7,22.344z"/>
+	</g>
+</g>
+<g id="Frames-24px">
+	<rect fill="none" width="24" height="24"/>
+</g>
+</svg>

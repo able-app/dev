@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="24px"
+	 height="24px" viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve">
+<g id="Outline_Icons">
+	<g>
+		<g>
+			<g>
+				<path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M23.5,18.911
+					c0,0.878-0.671,1.589-1.5,1.589H2c-0.828,0-1.5-0.711-1.5-1.589V4.089C0.5,3.211,1.172,2.5,2,2.5h20
+					c0.829,0,1.5,0.711,1.5,1.589V18.911z"/>
+				
+					<line fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="5" y1="22.5" x2="19" y2="22.5"/>
+				
+					<line fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="11.5" y1="20.5" x2="11.5" y2="22.5"/>
+				<circle fill="none" stroke="#000000" stroke-linejoin="round" stroke-miterlimit="10" cx="12" cy="18.5" r="0.5"/>
+				<line fill="none" stroke="#000000" stroke-linejoin="round" stroke-miterlimit="10" x1="0.5" y1="16.5" x2="23.5" y2="16.5"/>
+			</g>
+		</g>
+		<g>
+			<path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M8.833,8.144
+				C8.674,7.396,8.312,6.9,7.536,6.9c-1.2,0-1.41,1.188-1.41,2.65c0,1.465,0.21,2.65,1.41,2.65c0.775,0,1.138-0.494,1.297-1.24"/>
+			<path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M10.931,10.961
+				c0.041,0.691,0.58,1.24,1.239,1.24c0.687,0,1.241-0.593,1.241-1.324c0-1.08-1.021-1.262-1.239-1.326
+				c-0.217-0.062-1.241-0.244-1.241-1.324c0-0.732,0.556-1.326,1.241-1.326c0.659,0,1.198,0.549,1.239,1.241"/>
+			<path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M15.395,10.961
+				c0.041,0.691,0.58,1.24,1.239,1.24c0.687,0,1.241-0.593,1.241-1.324c0-1.08-1.021-1.262-1.239-1.326
+				c-0.217-0.062-1.241-0.244-1.241-1.324c0-0.732,0.556-1.326,1.241-1.326c0.659,0,1.198,0.549,1.239,1.241"/>
+		</g>
+	</g>
+</g>
+<g id="Invisible_Shape">
+	<rect fill="none" width="24" height="24"/>
+</g>
+</svg>

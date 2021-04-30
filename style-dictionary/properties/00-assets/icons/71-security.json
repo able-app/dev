@@ -1,0 +1,42 @@
+{
+  "assets": {
+      "icon": {
+          "line": {
+            "bulletproof-armor"  :  { "value"  :  "assets/icons/line/71-security/bulletproof-armor.svg" },
+            "cc-camera-1"  :  { "value"  :  "assets/icons/line/71-security/cc-camera-1.svg" },
+            "cc-camera-2"  :  { "value"  :  "assets/icons/line/71-security/cc-camera-2.svg" },
+            "fire-extinguisher"  :  { "value"  :  "assets/icons/line/71-security/fire-extinguisher.svg" },
+            "fire-sprinkler"  :  { "value"  :  "assets/icons/line/71-security/fire-sprinkler.svg" },
+            "footprint"  :  { "value"  :  "assets/icons/line/71-security/footprint.svg" },
+            "gas-mask"  :  { "value"  :  "assets/icons/line/71-security/gas-mask.svg" },
+            "handcuffs"  :  { "value"  :  "assets/icons/line/71-security/handcuffs.svg" },
+            "police-cap"  :  { "value"  :  "assets/icons/line/71-security/police-cap.svg" },
+            "radar-screen"  :  { "value"  :  "assets/icons/line/71-security/radar-screen.svg" },
+            "safety-buoy"  :  { "value"  :  "assets/icons/line/71-security/safety-buoy.svg" },
+            "sherif-star"  :  { "value"  :  "assets/icons/line/71-security/sherif-star.svg" },
+            "shield-fire"  :  { "value"  :  "assets/icons/line/71-security/shield-fire.svg" },
+            "shield-skull"  :  { "value"  :  "assets/icons/line/71-security/shield-skull.svg" },
+            "shield-viking"  :  { "value"  :  "assets/icons/line/71-security/shield-viking.svg" },
+            "sign-wanted"  :  { "value"  :  "assets/icons/line/71-security/sign-wanted.svg" }
+          },
+          "filled": {
+            "bulletproof-armor"  :  { "value"  :  "assets/icons/filled/71-security/bulletproof-armor.svg" },
+            "cc-camera-1"  :  { "value"  :  "assets/icons/filled/71-security/cc-camera-1.svg" },
+            "cc-camera-2"  :  { "value"  :  "assets/icons/filled/71-security/cc-camera-2.svg" },
+            "fire-extinguisher"  :  { "value"  :  "assets/icons/filled/71-security/fire-extinguisher.svg" },
+            "fire-sprinkler"  :  { "value"  :  "assets/icons/filled/71-security/fire-sprinkler.svg" },
+            "footprint"  :  { "value"  :  "assets/icons/filled/71-security/footprint.svg" },
+            "gas-mask"  :  { "value"  :  "assets/icons/filled/71-security/gas-mask.svg" },
+            "handcuffs"  :  { "value"  :  "assets/icons/filled/71-security/handcuffs.svg" },
+            "police-cap"  :  { "value"  :  "assets/icons/filled/71-security/police-cap.svg" },
+            "radar-screen"  :  { "value"  :  "assets/icons/filled/71-security/radar-screen.svg" },
+            "safety-buoy"  :  { "value"  :  "assets/icons/filled/71-security/safety-buoy.svg" },
+            "sherif-star"  :  { "value"  :  "assets/icons/filled/71-security/sherif-star.svg" },
+            "shield-fire"  :  { "value"  :  "assets/icons/filled/71-security/shield-fire.svg" },
+            "shield-skull"  :  { "value"  :  "assets/icons/filled/71-security/shield-skull.svg" },
+            "shield-viking"  :  { "value"  :  "assets/icons/filled/71-security/shield-viking.svg" },
+            "sign-wanted"  :  { "value"  :  "assets/icons/filled/71-security/sign-wanted.svg" }
+          }
+      }
+   }
+}

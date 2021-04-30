@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="24px"
+	 height="24px" viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve">
+<g id="Filled_Icon">
+	<g>
+		<g>
+			<rect x="7" y="14" width="5" height="6"/>
+			<path d="M13,6h6V2.5C19,1.122,17.878,0,16.5,0H13V6z"/>
+			<path d="M13,7v6h2.052c1.148-0.723,2.497-1.089,3.948-0.974V7H13z"/>
+			<rect y="7" width="6" height="6"/>
+			<rect x="7" y="7" width="5" height="6"/>
+			<rect x="7" width="5" height="6"/>
+			<path d="M6,6V0H2.5C1.122,0,0,1.122,0,2.5V6H6z"/>
+			<path d="M6,14H0v3.5C0,18.878,1.122,20,2.5,20H6V14z"/>
+		</g>
+		<g>
+			<path d="M21.294,16.414l-4.88,4.88C16.998,21.731,17.716,22,18.5,22c1.93,0,3.5-1.57,3.5-3.5
+				C22,17.716,21.731,16.999,21.294,16.414z"/>
+			<path d="M18.5,13c-3.033,0-5.5,2.467-5.5,5.5s2.467,5.5,5.5,5.5s5.5-2.467,5.5-5.5S21.533,13,18.5,13z M18.5,23
+				c-2.481,0-4.5-2.018-4.5-4.5c0-2.481,2.019-4.5,4.5-4.5s4.5,2.019,4.5,4.5C23,20.982,20.981,23,18.5,23z"/>
+			<path d="M20.587,15.707C20.002,15.269,19.285,15,18.5,15c-1.93,0-3.5,1.57-3.5,3.5c0,0.785,0.269,1.502,0.707,2.086
+				L20.587,15.707z"/>
+		</g>
+	</g>
+</g>
+<g id="Invisible_Shape">
+	<rect fill="none" width="24" height="24"/>
+</g>
+</svg>
